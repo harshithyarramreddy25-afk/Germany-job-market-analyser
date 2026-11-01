@@ -1,0 +1,730 @@
+refnr,search_term,title,role,employer,city,region,homeoffice,fulltime,contract,published,collected_on
+15740-1612-1802028-0-S,Data Scientist,Data Scientist (w/m/d),Data Scientist,Kassenärztl. Bundesvereinigung,,,False,True,UNBEFRISTET,2026-10-30,2026-11-01
+14820-0066327218-S,Data Scientist,Data Scientist (m/w/d),Data Scientist,BEIT GmbH,Espelkamp,NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-07-27,2026-11-01
+10000-1207127956-S,Data Scientist,Data Scientist (w/m/d),Data Scientist,LANXESS Deutschland GmbH,Köln,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-07-08,2026-11-01
+12336-a26f1128j0454930-S,Data Scientist,Data Scientist (w/m/d),Data Scientist,TÜV SÜD AG,München,BAYERN,False,True,KEINE_ANGABE,2026-10-23,2026-11-01
+14225-15a71660dfdb1b72-S,Data Scientist,Data Scientist (m/w/d),Data Scientist,HUK-COBURG Versicherungsgruppe,Coburg,BAYERN,False,True,KEINE_ANGABE,2026-10-20,2026-11-01
+11949-17395674-S,Data Scientist,Data Scientist,Data Scientist,VIG - VIENNA INSURANCE GROUP AG,"Wien,Innere Stadt",WIEN,False,True,UNBEFRISTET,2026-10-20,2026-11-01
+11949-17393631-S,Data Scientist,Data Scientist,Data Scientist,voestalpine Krems GmbH,Lerchenfeld,NIEDEROESTERREICH,False,True,UNBEFRISTET,2026-10-19,2026-11-01
+11949-17392383-S,Data Scientist,Data Scientist,Data Scientist,Infineon Technologies Austria AG,Villach-Auen,KAERNTEN,False,True,UNBEFRISTET,2026-10-16,2026-11-01
+11949-17391776-S,Data Scientist,Data Scientist,Data Scientist,firstbird GmbH Radancy,"Wien,Favoriten",WIEN,False,True,UNBEFRISTET,2026-10-15,2026-11-01
+11949-17390389-S,Data Scientist,Data Scientist,Data Scientist,GEBRÜDER WEISS GmbH,Maria-Lanzendorf,NIEDEROESTERREICH,False,True,UNBEFRISTET,2026-10-15,2026-11-01
+12288-4963187335-S,Data Scientist,Data Scientist (m/w/d),Data Scientist,DIS AG Germany,Dresden,SACHSEN,False,True,UNBEFRISTET,2026-10-13,2026-11-01
+11949-17388162-S,Data Scientist,Data Scientist,Data Scientist,Fronius International GmbH,Thalheim bei Wels,OBEROESTERREICH,False,True,UNBEFRISTET,2026-10-13,2026-11-01
+11949-17383626-S,Data Scientist,Data Scientist,Data Scientist,MED-EL Elektromedizinische Geräte GmbH,Hötting,TIROL,False,True,UNBEFRISTET,2026-10-09,2026-11-01
+11949-17378249-S,Data Scientist,Data Scientist,Data Scientist,BUNDESRECHENZENTRUM GmbH,"Wien,Landstraße",WIEN,False,True,UNBEFRISTET,2026-10-06,2026-11-01
+12288-4953545452-S,Data Scientist,Data Scientist (m/w/d),Data Scientist,hyrup,Düsseldorf,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-02,2026-11-01
+11949-17374948-S,Data Scientist,Data Scientist,Data Scientist,VIG - VIENNA INSURANCE GROUP AG,"Wien,Innere Stadt",WIEN,False,True,UNBEFRISTET,2026-10-02,2026-11-01
+10000-1185445644-S,Data Scientist,Data Scientist (m/w/d),Data Scientist,Lantenhammer Consulting Silvia Lantenhammer,München,BAYERN,,True,UNBEFRISTET,2021-08-27,2026-11-01
+11949-17359392-S,Data Scientist,Data Scientist,Data Scientist,apsa personnel concepts gmbh,Mödling,NIEDEROESTERREICH,False,True,UNBEFRISTET,2026-09-26,2026-11-01
+11949-17354908-S,Data Scientist,Data Scientist,Data Scientist,VIG - VIENNA INSURANCE GROUP AG,"Wien,Innere Stadt",WIEN,False,True,UNBEFRISTET,2026-09-16,2026-11-01
+11949-17354873-S,Data Scientist,Data Scientist,Data Scientist,VIG - VIENNA INSURANCE GROUP AG,"Wien,Innere Stadt",WIEN,False,True,UNBEFRISTET,2026-09-16,2026-11-01
+11949-17348369-S,Data Scientist,Data Scientist,Data Scientist,fonio GmbH,"Wien,Neubau",WIEN,False,True,UNBEFRISTET,2026-09-10,2026-11-01
+11949-17343786-S,Data Scientist,Data Scientist,Data Scientist,CANCOM Austria AG,Salzburg,SALZBURG,False,True,UNBEFRISTET,2026-09-07,2026-11-01
+11949-17340182-S,Data Scientist,Data Scientist,Data Scientist,Cops Gesellschaft für angewandte Systemanalyse und Programmierung Ges.m.b.H,"Wien,Penzing",WIEN,False,True,UNBEFRISTET,2026-09-02,2026-11-01
+11949-17338293-S,Data Scientist,Data Scientist,Data Scientist,Xchannels.ai FlexCo,"Wien,Landstraße",WIEN,False,True,UNBEFRISTET,2026-09-01,2026-11-01
+11949-17338311-S,Data Scientist,Data Scientist,Data Scientist,Xchannels.ai FlexCo,"Wien,Landstraße",WIEN,False,True,UNBEFRISTET,2026-09-01,2026-11-01
+11949-17329194-S,Data Scientist,Data Scientist,Data Scientist,Wimmer Medien GmbH & Co.KG.,Linz,OBEROESTERREICH,False,True,UNBEFRISTET,2026-08-24,2026-11-01
+11949-17315581-S,Data Scientist,Data Scientist,Data Scientist,AIT Austrian Institute of Technology GmbH,"Wien,Floridsdorf",WIEN,False,True,UNBEFRISTET,2026-08-11,2026-11-01
+11949-17315934-S,Data Scientist,Data Scientist,Data Scientist,niceshops GmbH,"Graz,05.Bez.:Gries",STEIERMARK,False,True,UNBEFRISTET,2026-08-11,2026-11-01
+11949-17302130-S,Data Scientist,Data Scientist,Data Scientist,HOFER KG,Trumau,NIEDEROESTERREICH,False,True,UNBEFRISTET,2026-07-29,2026-11-01
+11949-17298277-S,Data Scientist,Data Scientist,Data Scientist,solicon IT GmbH,"Wien,Innere Stadt",WIEN,False,True,UNBEFRISTET,2026-07-24,2026-11-01
+11949-17245344-S,Data Scientist,Data Scientist,Data Scientist,Adecco Personalbereitstellungs GmbH,Trumau,NIEDEROESTERREICH,False,True,UNBEFRISTET,2026-06-05,2026-11-01
+10001-1003739384-S,Data Scientist,Data Scientist (w/m/d),Data Scientist,TÜV SÜD AG,München,BAYERN,True,True,UNBEFRISTET,2026-09-21,2026-11-01
+10001-1003933689-S,Data Scientist,Data Scientist / Data Manager (m/w/d),Data Scientist,Deutsches Krebsforschungszentrum,"Heidelberg, Neckar",BADEN_WUERTTEMBERG,,True,BEFRISTET,2026-10-29,2026-11-01
+12456-1649245-1-S,Data Scientist,Data Scientist:in,Informatiker/in,Deutsche Bahn AG,Frankfurt am Main,HESSEN,False,True,UNBEFRISTET,2026-10-30,2026-11-01
+19301-972442422-S,Data Scientist,Actuarial Data Scientist (m/w/d),Data Scientist,R+V Allgemeine Versicherung AG,Wiesbaden,HESSEN,False,True,KEINE_ANGABE,2026-09-23,2026-11-01
+13884-348724-S,Data Scientist,Data Scientist für Compliance (m/w/d),Data Scientist,Finanz Informatik GmbH & Co. KG,"Münster, Westfalen",NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-10-23,2026-11-01
+12336-a26f1128j0455546-S,Data Scientist,Senior Data Scientist (w/m/d),Data Scientist,TÜV SÜD AG,München,BAYERN,False,True,KEINE_ANGABE,2026-10-16,2026-11-01
+14225-f85f7f7001288cbc-S,Data Scientist,Data Scientist (m/w/d),Informatiker/in,Max Planck Information and Technology,München,BAYERN,True,True,KEINE_ANGABE,2026-10-30,2026-11-01
+12288-4963186106-S,Data Scientist,Data Scientist BI (m/w/d),Data Scientist,DIS AG Germany,Elsterheide,SACHSEN,False,True,UNBEFRISTET,2026-10-12,2026-11-01
+16258-0064612468-S,Data Scientist,Data Scientist / Data Engineer (m/w/d),Data Scientist,FEGA & Schmitt Elektrogroßhandel GmbH,"Ansbach, Mittelfranken",BAYERN,,True,KEINE_ANGABE,2026-05-07,2026-11-01
+18306-BB-634450-7878-9901-S,Data Scientist,Data Engineer/ Scientist im Fachbereich (m/w/d),Data Scientist,AXA Konzern AG,Köln,NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2026-02-18,2026-11-01
+12288-4945967401-S,Data Scientist,Data Scientist Simulationsmodelle (m/w/d),Data Scientist,YER,Stuttgart,BADEN_WUERTTEMBERG,False,True,UNBEFRISTET,2026-09-23,2026-11-01
+13644-303024-S,Data Scientist,Data Scientist (m/w/d),Datenbankentwickler/in,Miele,Gütersloh,NORDRHEIN_WESTFALEN,False,False,KEINE_ANGABE,2026-10-01,2026-11-01
+13644-262060-S,Data Scientist,Data Scientist (m/w/d),Datenbankentwickler/in,SCHICKLER Unternehmensberatung,Hamburg,HAMBURG,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+13644-47175-S,Data Scientist,Data Scientist (m/w/d),Datenbankentwickler/in,CTcon,Frankfurt am Main,HESSEN,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+12265-392065_JB5285675-S,Data Scientist,Data Scientist Life Science (m/w/d),Data Scientist,FERCHAU GmbH Niederlassung Ulm,Biberach an der Riß,BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-10-30,2026-11-01
+12787-267279120826-S,Data Scientist,Data Scientist Warenflussmanagement (w/m/d),Data Scientist,dm-drogerie markt GmbH + Co.KG,"Karlsruhe, Baden",BADEN_WUERTTEMBERG,False,True,UNBEFRISTET,2026-08-12,2026-11-01
+12160-13902183-S,Data Scientist,Informatiker (m/w/d) oder Data Scientist (m/w/d),Informatiker/in,akut... Kompetente Lösungen GmbH,Biberach an der Riß,BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-10-21,2026-11-01
+10001-1003776316-S,Data Scientist,Senior Data Scientist (w/m/d),Data Scientist,TÜV SÜD AG,München,BAYERN,True,True,UNBEFRISTET,2026-09-28,2026-11-01
+16576-2026uer8kqvn-000-S,Data Scientist,(Senior) Data Scientist - Pricing (m/w/d),Data Scientist,Bergfreunde GmbH,Kirchentellinsfurt,BADEN_WUERTTEMBERG,,,UNBEFRISTET,2026-10-16,2026-11-01
+14225-90b1111ecb20faff-S,Data Scientist,Data Scientist (m/w/d),Biowissenschaftler/in,Helmholtz-Zentrum hereon GmbH,Geesthacht,SCHLESWIG_HOLSTEIN,False,True,KEINE_ANGABE,2026-10-07,2026-11-01
+14225-df5b7ee8dc126b64-S,Data Scientist,Data Scientist (m/w/d),Praktische/r Betriebswirt/in,AbbVie Deutschland GmbH & Co. KG,Wiesbaden,HESSEN,False,True,KEINE_ANGABE,2026-10-27,2026-11-01
+12601-12053-1791416-0-S,Data Scientist,Data Scientist People Analytics (m/w/d),Data Scientist,LZ Informatik,"Nürnberg, Mittelfranken",BAYERN,,True,UNBEFRISTET,2026-08-20,2026-11-01
+21046-16846209-S,Data Scientist,Data Scientist (m/w/d) – Anomalieerkennung für Recyclinganlagen,Data Scientist,Eggersmann Gruppe GmbH & Co. KG / SO Halle,Aachen,NORDRHEIN_WESTFALEN,,,KEINE_ANGABE,2026-10-21,2026-11-01
+12787-272617221026-S,Data Scientist,Data Scientist HR-Daten (w/m/d),Data Scientist,dm-drogerie markt GmbH + Co.KG,"Karlsruhe, Baden",BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-10-22,2026-11-01
+13649-13465846AB-S,Data Scientist,Data Scientist HR-Daten (w/m/d),Data Scientist,dm-drogerie markt GmbH + Co. KG,"Karlsruhe, Baden",BADEN_WUERTTEMBERG,False,True,KEINE_ANGABE,2026-10-24,2026-11-01
+12608-1437027-28033-1-S,Data Scientist,(Senior) Data Scientist Analytics (m/w/d),Data Scientist,REWE Group,Köln,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-08-11,2026-11-01
+19301-971233912-S,Data Scientist,Data Scientist Fraud Management (m/w/d),Data Scientist,R+V Allgemeine Versicherung AG,Wiesbaden,HESSEN,False,False,KEINE_ANGABE,2026-09-16,2026-11-01
+12288-4959930056-S,Data Scientist,Data Scientist Inhouse Consulting (m/w/d),Data Scientist,Dirk Rossmann GmbH,Burgwedel,NIEDERSACHSEN,False,True,UNBEFRISTET,2026-10-09,2026-11-01
+11070-1635338-1-S,Data Scientist,Data Scientist / Ingenieur / Naturwissenschaftler (w/m/d),Data Scientist,Salzgitter Mannesmann Forschung GmbH,Salzgitter,NIEDERSACHSEN,False,True,KEINE_ANGABE,2026-09-23,2026-11-01
+12787-269302121026-S,Data Scientist,Data Scientist Inventur und Bestandsführung (w/m/d),Data Scientist,dm-drogerie markt GmbH + Co.KG,"Karlsruhe, Baden",BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-10-12,2026-11-01
+12288-4931146844-S,Data Scientist,Senior Data Scientist (m/f/d),Data Scientist,TechMinds GmbH,Berlin,BERLIN,False,True,UNBEFRISTET,2026-09-05,2026-11-01
+10000-1207054933-S,Data Scientist,AI Engineer / Data Scientist (m/w/d),Data Scientist,thinkers GmbH,Leipzig,SACHSEN,,True,UNBEFRISTET,2026-07-02,2026-11-01
+12634-BB-645572-7878-2776-S,Data Scientist,Data Scientist Machine Learning & Messtechnik (m/w/d),Data Scientist,Akkodis Germany Tech Experts GmbH,Oberkochen,BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-10-28,2026-11-01
+17486-90398972757058246-S,Data Scientist,"Data Scientist, Chrome",Data Engineer,Google Germany GmbH,München,BAYERN,False,False,KEINE_ANGABE,2026-06-16,2026-11-01
+13644-313823-S,Data Scientist,Data Scientist für Compliance (m/w/d),Datenbankentwickler/in,Finanz Informatik,"Münster, Westfalen",NORDRHEIN_WESTFALEN,True,False,KEINE_ANGABE,2026-10-27,2026-11-01
+18306-BB-634354-7878-5277-S,Data Scientist,Data-Engineer/-Scientist (m/w/d) im Aktuariat,Data Scientist,AXA Konzern AG,Köln,NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2026-01-20,2026-11-01
+10000-1204800048-S,Data Scientist,Senior Data Scientist im Consulting,Informatiker/in,viadee Unternehmensberatung AG,"Münster, Westfalen",NORDRHEIN_WESTFALEN,,True,KEINE_ANGABE,2025-12-10,2026-11-01
+13884-298422-S,Data Scientist,(Junior) Data Scientist (m/w/d) in Vollzeit oder Teilzeit,Data Scientist,CBC Cologne Business Center GmbH,Köln,NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-10-28,2026-11-01
+13644-304795-S,Data Scientist,(Senior) Data Scientist (m/w/d),Datenbankentwickler/in,Deichmann,"Essen, Ruhr",NORDRHEIN_WESTFALEN,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+12811-2345959-S,Data Scientist,"Data Scientist  (m/w/d), Frankfurt",Data-Warehouse-Analyst/in,compeople,Frankfurt am Main,HESSEN,False,False,UNBEFRISTET,2026-09-28,2026-11-01
+12811-2287534-S,Data Scientist,"Data Scientist (m/w/d), Weeze",Data-Warehouse-Analyst/in,CHEFS CULINAR West GmbH & Co. KG,Weeze,NORDRHEIN_WESTFALEN,False,False,UNBEFRISTET,2026-06-30,2026-11-01
+12634-BB-645773-7878-6291-S,Data Scientist,Data Scientist AI & Machine Learning (m/w/d),Data Scientist,Akkodis Germany Tech Experts GmbH,Oberkochen,BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-10-05,2026-11-01
+16106-44536218-1027-S,Data Scientist,Senior Data Scientist (m/w/d) - Applied Machine Learning,Data Scientist,DAK-Gesundheit,Hamburg,HAMBURG,True,True,UNBEFRISTET,2026-10-28,2026-11-01
+12265-521719_JB5277182-S,Data Scientist,Data Scientist für Algorithmen & Machine Learning in der Messtechnik (m/w/d),Data Scientist,FERCHAU GmbH Niederlassung Heidenheim,Oberkochen,BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-10-20,2026-11-01
+20390-978522636-S,Data Scientist,"Senior Data Scientist - (Global Search, Consumer)",Data Scientist,Delivery Hero SE,Berlin,BERLIN,,,KEINE_ANGABE,2026-10-22,2026-11-01
+18024-10Q1i00007Y00-S,Data Scientist,Spezialist:in Data Scientist Digitalisierung und Business Analytics (m/w/d),Data Scientist,Stadtsparkasse Düsseldorf,Düsseldorf,NORDRHEIN_WESTFALEN,True,True,KEINE_ANGABE,2026-10-29,2026-11-01
+13635-80530ff2_JB5285329-S,Data Scientist,Senior Data Scientist (m/w/d) – Fokus Business Analytics,Data Scientist,Alexander Thamm GmbH,Frankfurt am Main,HESSEN,False,True,UNBEFRISTET,2026-10-29,2026-11-01
+12942-1641983-1-S,Data Scientist,Data Scientist Inhouse Consulting (m/w/d),Informatiker/in,Dirk Rossmann GmbH,Burgwedel,NIEDERSACHSEN,False,True,UNBEFRISTET,2026-10-12,2026-11-01
+20208-be7978831d1446cfb20-S,Data Scientist,(Junior) Data Scientist (m/w/d) Search / AI Forge,Data Scientist,CHECK24 Services Personal GmbH,München,BAYERN,,True,KEINE_ANGABE,2026-09-23,2026-11-01
+10001-1003109050-S,Data Scientist,Engineering Analyst – Data Scientist (m/w/d),Wirtschaftsinformatiker/in (Hochschule),Zentrum für Arbeit und Bildung Frankenthal gemeinnützige GmbH Personaldienste,Bruchsal,BADEN_WUERTTEMBERG,,True,BEFRISTET,2026-05-21,2026-11-01
+14225-8520b975f2657d81-S,Data Scientist,Data Scientist - IT-Architekt (m/w/d),Informatiker/in,itmX GmbH,Pforzheim,BADEN_WUERTTEMBERG,True,True,KEINE_ANGABE,2026-10-29,2026-11-01
+12908-060655535-S,Data Scientist,Datenanalyst / Data Scientist (w/m/d) - Vorhersagen für Solar- und Windstrom,Data Scientist,energy & meteo systems GmbH,Oldenburg (Oldb),NIEDERSACHSEN,False,False,KEINE_ANGABE,2026-10-20,2026-11-01
+19301-958345617-S,Data Scientist,Data Scientist (m/w/d) für analytisches CRM und datengestützte Potenziale ,Data Scientist,R+V Allgemeine Versicherung AG,Wiesbaden,HESSEN,False,False,KEINE_ANGABE,2026-07-20,2026-11-01
+12288-4935065375-S,Data Scientist,Senior Data Scientist (m/f/d) Operations Research,Data Scientist,TechMinds GmbH,Berlin,BERLIN,False,True,UNBEFRISTET,2026-09-16,2026-11-01
+12288-4981934329-S,Data Scientist,Data Engineer / Scientist (m/w/d) Payment,Data Engineer,S-Payment GmbH,Stuttgart,BADEN_WUERTTEMBERG,False,True,UNBEFRISTET,2026-10-28,2026-11-01
+10001-1002144394-S,Data Scientist,(Senior) Data Scientist (m/f/d),Informatiker/in,Lehmann + Pioneers Digital GmbH,Leinfelden-Echterdingen,BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2025-11-13,2026-11-01
+10000-1208372964-S,Data Scientist,Senior Data Scientist (Supply Chain Management) - Data Labs (m/w/d),Data Scientist,SAP Deutschland SE & Co. KG,"Walldorf, Baden",BADEN_WUERTTEMBERG,False,True,KEINE_ANGABE,2026-10-21,2026-11-01
+20208-baea7b4704c54d21b7b-S,Data Scientist,(Junior) Data Scientist (m/f/d) Search / AI Forge,Data Scientist,CHECK24 Services Personal GmbH,München,BAYERN,,True,KEINE_ANGABE,2026-09-09,2026-11-01
+10001-1003870214-S,Data Scientist,Modelling Scientist (f/m/d),Data Scientist,Coriolis Pharma Research GmbH,Planegg,BAYERN,,True,UNBEFRISTET,2026-10-16,2026-11-01
+20390-973945284-S,Data Scientist,Senior Data Scientist – Fintech (Credit and Fraud),Data Scientist,Delivery Hero SE,,,,,KEINE_ANGABE,2026-09-30,2026-11-01
+20208-50e689aec5ea4bd2a6d-S,Data Scientist,(Junior) Data Scientist (m/w/d) – Generative AI Mietwagen International,Data Scientist,CHECK24 Services Personal GmbH,München,BAYERN,,True,KEINE_ANGABE,2026-08-22,2026-11-01
+19376-44512458-1016-S,Data Scientist,Data Scientist: Advanced Analytics & AI Engineer in Insurance,Data Scientist,HDI AG,Köln,NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-10-17,2026-11-01
+15548-1430565-1-S,Data Scientist,Data Scientist / Analyst prüfungsnahe Beratung (Financial Services) (w/m/d),Data Scientist,EY GmbH & Co. KG WPG,"Eschborn, Taunus",HESSEN,False,True,UNBEFRISTET,2025-06-11,2026-11-01
+12362-PR-281473_602373LS-S,Data Scientist,Scientist / Senior Scientist Bioprocess Modeling & Data Science (w/m/d),Ingenieur/in - Biotechnologie,Brunel GmbH NL Wuppertal,Wuppertal,NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2026-03-17,2026-11-01
+13185-507290-1801734-0-S,Data Scientist,Senior Data Scientist GenAI & KI-Agenten (all gender),Data Scientist,ALTEN Consulting Services GmbH Stuttgart,Stuttgart,BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-10-28,2026-11-01
+14225-07cd0677763c125c-S,Data Scientist,"Data Scientist, Software Engineer - KI (m/w/d)",Softwareentwickler/in,GDV Gesamtverband der Versicherer,Berlin,BERLIN,True,True,KEINE_ANGABE,2026-09-17,2026-11-01
+12942-1625114-1-S,Data Scientist,Senior Finance Data Scientist / Engineer (m/w/d),Informatiker/in,Dirk Rossmann GmbH,Burgwedel,NIEDERSACHSEN,False,True,KEINE_ANGABE,2026-08-31,2026-11-01
+10001-1003838561-S,Data Scientist,Data Scientist (m/w/d) für Chemische Prozesse – mit Gehaltsangabe,Ingenieur/in - Chemietechnik,Covestro Deutschland AG,Leverkusen,NORDRHEIN_WESTFALEN,,,UNBEFRISTET,2026-10-12,2026-11-01
+11070-1630225-1-S,Data Scientist,Senior Data Scientist (Supply Chain Management) - Data Labs (m/f/d),Data Scientist,SAP,,,False,True,KEINE_ANGABE,2026-09-08,2026-11-01
+14225-192c10cc71889b59-S,Data Scientist,Teamleiter - Data Science (m/w/d),Data Scientist,ADI Solutions GmbH,Osnabrück,NIEDERSACHSEN,True,True,KEINE_ANGABE,2026-10-29,2026-11-01
+13644-304797-S,Data Scientist,(Senior) Data Scientist Customer Analytics (m/w/d),Business-Analyst/in,Deichmann,"Essen, Ruhr",NORDRHEIN_WESTFALEN,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+11858-SDE-120192-STA-S,Data Scientist,Data Science Engineer m/w/d,Data Scientist,Krannich Group GmbH,Weil der Stadt,BADEN_WUERTTEMBERG,True,True,KEINE_ANGABE,2026-10-27,2026-11-01
+10001-1003685161-S,Data Scientist,Data Science Engineer m/w/d,Data Scientist,Krannich Solar GmbH & Co. KG,Weil der Stadt,BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-09-10,2026-11-01
+12942-1643634-1-S,Data Scientist,Data Quality Manager (m/w/d),Data Scientist,Dirk Rossmann GmbH,Burgwedel,NIEDERSACHSEN,False,True,UNBEFRISTET,2026-10-15,2026-11-01
+17172-717D488F2E9F532CFB0-S,Data Scientist,(Senior-) Data Architekt (m/w/d),Data Scientist,Vereinigte Hagelvers. VVaG,"Gießen, Lahn",HESSEN,,,KEINE_ANGABE,2026-09-23,2026-11-01
+13319-897963/1_626555LS-S,Data Scientist,Data Scientist Algorithmik-/ML-Engineering Messtechnik (m/w/d),Messtechniker/in (Energietechnik),Hays Professional Solutions GmbH,,BADEN_WUERTTEMBERG,,True,BEFRISTET,2026-10-16,2026-11-01
+12265-294814_JB5269923-S,Data Scientist,Data Analyst (m/w/d),Data Scientist,FERCHAU GmbH Niederlassung Rostock,Rostock,MECKLENBURG_VORPOMMERN,,True,KEINE_ANGABE,2026-10-12,2026-11-01
+14774-BB-562881-12683-985-S,Data Scientist,(Senior) Data Engineer (m/w/d),Data Scientist,Deichmann SE,"Essen, Ruhr",NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-05-15,2026-11-01
+10001-1003930080-S,Data Scientist,Data Architect (w/m/d),Informatiker/in,TÜV SÜD AG,München,BAYERN,True,True,UNBEFRISTET,2026-10-29,2026-11-01
+13319-895831/1_624230LS-S,Data Scientist,BIM Data Manager (m/w/d),Data Scientist,Hays Professional Solutions GmbH Standort Nürnberg,Erlangen,BAYERN,,True,BEFRISTET,2026-09-29,2026-11-01
+13644-304796-S,Data Scientist,(Senior) ML Engineer / Data Scientist Customer Data (m/w/d),Datenbankentwickler/in,Deichmann,"Essen, Ruhr",NORDRHEIN_WESTFALEN,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+14774-BB-565937-12683-168-S,Data Scientist,(Senior) Product Owner Data Science (m/w/d),Data Scientist,Deichmann SE,"Essen, Ruhr",NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-20,2026-11-01
+12811-2211521-S,Data Scientist,"(Senior) Data Scientist (w/m/d) - infas 360, Bonn",Data-Warehouse-Analyst/in,Ipsos GmbH,Bonn,NORDRHEIN_WESTFALEN,False,False,UNBEFRISTET,2026-03-24,2026-11-01
+10000-1205210673-S,Data Scientist,Actuarial Data Scientist / Aktuar:in / Mathematiker:in im Pricing (w/m/d),Mathematiker/in,HUK-COBURG VVaG,Coburg,BAYERN,,True,UNBEFRISTET,2026-01-22,2026-11-01
+18251-34150-S,Data Scientist,Senior Applied Scientist - Agentic AI (all genders),Data Scientist,Zalando SE,Berlin,BERLIN,,True,KEINE_ANGABE,2026-10-28,2026-11-01
+13635-1169cc4c_JB5284117-S,Data Scientist,Data Strategist & Enterprise Architect (w/m/d),Data Scientist,PFISTERER Kontaktsysteme GmbH,"Winterbach bei Schorndorf, Württ.",BADEN_WUERTTEMBERG,False,True,UNBEFRISTET,2026-10-28,2026-11-01
+10001-1003566217-S,Data Scientist,Principal Research Scientist - Product Development (m/f/d),Data Scientist,Elanco Animal Health GmbH,Monheim am Rhein,NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2026-08-19,2026-11-01
+10000-1208183140-S,Data Scientist,Data Scientist (w/m/d) ab 1.1.27 am Institut für Altertumswissenschaften gesucht,Informatiker/in,Johannes Gutenberg-Universität Dienststellen: 9000 - 9640,Mainz am Rhein,RHEINLAND_PFALZ,True,True,BEFRISTET,2026-10-06,2026-11-01
+10001-1003798543-S,Data Scientist,Data Scientist Algorithmik-/ML-Engineering Messtechnik (m/w/x) in Arbeitnehmerüberlassung,Data Scientist,Kirsch GmbH Personalmanagement,Oberkochen,BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-10-05,2026-11-01
+20177-44542984-1030-S,Data Scientist,Senior Data Analytics Operations Manager,Data Scientist,Boehringer Ingelheim Pharma GmbH & Co. KG,Ingelheim am Rhein,RHEINLAND_PFALZ,False,True,KEINE_ANGABE,2026-10-31,2026-11-01
+16315-b320cbb0aabaf02a-S,Data Scientist,Senior Data Science & Infrastructure Manager   (m/w/d),Data Scientist,Klinikum der Universität München,München,BAYERN,,True,KEINE_ANGABE,2026-10-30,2026-11-01
+13319-896529/1_624650LS-S,Data Scientist,Materials Data Management Engineer (m/w/d),Data Scientist,Hays Professional Solutions GmbH Standort Nürnberg,Mülheim an der Ruhr,NORDRHEIN_WESTFALEN,,True,BEFRISTET,2026-10-02,2026-11-01
+13635-0822a73c_JB5278182-S,Data Scientist,Senior Professional Data-Engineer (m/w/d),Data Scientist,adorsys GmbH & Co. KG,"Nürnberg, Mittelfranken",BAYERN,False,True,UNBEFRISTET,2026-10-21,2026-11-01
+17338-83abed8f8a5b5d32b0-S,Data Scientist,Senior Data Analyst (m/w/d) - Hybrid,Data Scientist,Vereinigte Hagelversicherung VVaG,"Gießen, Lahn",HESSEN,False,True,KEINE_ANGABE,2026-10-21,2026-11-01
+13319-895655/1_624954LS-S,Data Scientist,Senior Data und Digital Adviser (m/w/d),Data Scientist,Hays AG,Hamburg,HAMBURG,,True,UNBEFRISTET,2026-10-05,2026-11-01
+16236-979930378-S,Data Scientist,Data Science Engineer/Analyst Aerospace (m/w/d),Data Scientist,Sopra Steria SE,,,,,KEINE_ANGABE,2026-10-29,2026-11-01
+17700-0065924094-S,Data Scientist,Senior Semantic Data Specialist (m/w/d),Data Scientist,Almato AG,Stuttgart,BADEN_WUERTTEMBERG,False,True,KEINE_ANGABE,2026-07-08,2026-11-01
+13635-8cb715fd_JB5267814-S,Data Scientist,Lead (m/w/d) Master Data Management,Data Scientist,Rottendorf Pharma GmbH,Ennigerloh,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-09,2026-11-01
+12908-064553622-S,Data Scientist,Global Data Analyst (m/f/d),Data Scientist,Advantest Europe GmbH,Böblingen,BADEN_WUERTTEMBERG,False,False,KEINE_ANGABE,2026-10-09,2026-11-01
+12908-064474262-S,Data Scientist,Data Analyst - Chatbot & Voicebot (w/m/d),Data Scientist,ING Deutschland,Frankfurt am Main,HESSEN,False,False,KEINE_ANGABE,2026-10-05,2026-11-01
+10000-1208373025-S,Data Scientist,Data Science Expert (CX) - Data Labs (m/w/d),Data Scientist,SAP Deutschland SE & Co. KG,"Walldorf, Baden",BADEN_WUERTTEMBERG,False,True,KEINE_ANGABE,2026-10-21,2026-11-01
+13319-898751/1_5322CS-S,Data Scientist,Senior Data Analytics Engineer  (m/w/d),Data Scientist,Hays Professional Solutions GmbH Standort Nürnberg,Mannheim,BADEN_WUERTTEMBERG,,True,BEFRISTET,2026-10-23,2026-11-01
+18251-32372-S,Data Scientist,Senior Applied Scientist - Demand Forecast (all genders),Data Scientist,Zalando SE,Berlin,BERLIN,,True,KEINE_ANGABE,2026-09-02,2026-11-01
+13319-893732/1_622714LS-S,Data Scientist,Biospecimen Specialist Sample Data  (m/w/d),Data Scientist,Hays Professional Solutions GmbH,Penzberg,BAYERN,,True,BEFRISTET,2026-09-11,2026-11-01
+10001-1003840353-S,Data Scientist,Data Scientist / AI Specialist – Machine Learning und Generative AI (m/w/d),Informatiker/in,Verwaltungs- Berufsgenossenschaft (VBG),Hamburg,HAMBURG,,True,UNBEFRISTET,2026-10-12,2026-11-01
+15205-0068309823-S,Data Scientist,"Projektmanager (m/w/d) AI, Data & Automation Hub",Data Scientist,Wall GmbH Unternehmenszentrale,Berlin,BERLIN,,True,KEINE_ANGABE,2026-10-23,2026-11-01
+16236-976723847-S,Data Scientist,(Associate) Manager Data Science & AI (m/w/d),Data Scientist,Sopra Steria SE,,,,,KEINE_ANGABE,2026-10-14,2026-11-01
+10000-1206989482-S,Data Scientist,(Senior) Applied Scientist (Machine Learning) (w/m/d),Machine Learning Engineer,HUK-COBURG VVaG,Coburg,BAYERN,True,True,KEINE_ANGABE,2026-06-29,2026-11-01
+20309-8537-1798064-0-S,Data Scientist,Experte Data & Innovation Management,Data Scientist,BLG LOGISTICS GROUP AG & Co. KG,Bremen,BREMEN,,True,UNBEFRISTET,2026-09-28,2026-11-01
+10001-1003732684-S,Data Scientist,Data Engineer (m/w/d),Data Engineer,EUROPART Holding GmbH,"Hagen, Westfalen",NORDRHEIN_WESTFALEN,True,True,UNBEFRISTET,2026-09-18,2026-11-01
+19301-972233517-S,Data Scientist,Data Strategy Manager (m/w/d) KI Governance,Data Scientist,R+V Allgemeine Versicherung AG,Wiesbaden,HESSEN,False,False,UNBEFRISTET,2026-09-22,2026-11-01
+13635-b3864fd8_JB5285314-S,Data Scientist,Senior Data & AI Projektleitung (m/w/d) - Public Sektor,Data Scientist,Alexander Thamm GmbH,Berlin,BERLIN,False,True,UNBEFRISTET,2026-10-30,2026-11-01
+14005-44357523-84-S,Data Scientist,Data & AI Project Manager (m/f/d),Data Scientist,Liebherr-Digital Development C enter GmbH,"Ulm, Donau",BADEN_WUERTTEMBERG,False,True,KEINE_ANGABE,2026-08-05,2026-11-01
+10001-1003792867-S,Data Scientist,Data Scientist / Algorithmen-Ingenieur (m/w/d) – Optische Messtechnik & Machine Learning 1110-637,Informatiker/in,PAPEVE GmbH Der Spezialist für Ingenieure Techniker und Fachpersonal,"Aalen, Württemberg",BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-10-04,2026-11-01
+13635-795a2fce_JB5265223-S,Data Scientist,Senior Data & AI Projektleitung - Schwerpunkt Defense (m/w/d),Data Scientist,Alexander Thamm GmbH,"Nürnberg, Mittelfranken",BAYERN,False,True,UNBEFRISTET,2026-10-06,2026-11-01
+20208-c59f264a5c954d0188c-S,Data Scientist,Produktmanager (m/w/d) AI & Data Science Mietwagen,Data Scientist,CHECK24 Services Personal GmbH,"Augsburg, Bayern",BAYERN,,True,KEINE_ANGABE,2026-08-06,2026-11-01
+19301-923495620-S,Data Scientist,Data Science Experte für Customer Intelligence (m/w/d),Data Scientist,R+V Allgemeine Versicherung AG,Wiesbaden,HESSEN,,False,KEINE_ANGABE,2026-02-05,2026-11-01
+12362-TR-301942_624741LS-S,Data Scientist,Asset Management Data & Systems Specialist (w/m/d),Data Scientist,Brunel GmbH NL Mannheim,Köln,NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2026-10-02,2026-11-01
+17338-3b1eeaedde07ff5474-S,Data Scientist,Senior Data / AI Consultant - Hybrid,Data Scientist,Rockstar Recruiting AG,München,BAYERN,False,True,KEINE_ANGABE,2026-10-02,2026-11-01
+12787-271911131026-S,Data Scientist,Data Analyst Marktlogistik (w/m/d),Data-Analyst/in,dm-drogerie markt GmbH + Co.KG,"Karlsruhe, Baden",BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-10-13,2026-11-01
+12811-2340154-S,Data Scientist,"Head of AI & Data Science (m/w/d), Dortmund",Data Scientist,Dr. Ausbüttel GmbH & Co. KG,Dortmund,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-09-19,2026-11-01
+17031-00024402b67001-S,Data Scientist,Research Scientist (f_m_x) - Hyperspectral Remote Sensing – EnMAP,Geowissenschaftler/in,GFZ Helmholtz-Zentrum für Geoforschung,Potsdam,BRANDENBURG,,,BEFRISTET,2026-10-07,2026-11-01
+10001-1002982199-S,Data Scientist,ETL / Data Engineer (m/w/d),Data Engineer,committance AG,,,True,True,UNBEFRISTET,2026-04-27,2026-11-01
+13319-888818/1_625325LS-S,Data Scientist,Data Engineer - Analytics and Data Products (m/f/d),Data Scientist,Hays Professional Solutions GmbH,Poing bei München,BAYERN,,True,BEFRISTET,2026-10-07,2026-11-01
+10001-1001634467-S,Data Scientist,Data Engineer (w/m/d),Data Engineer,TIQ Solutions GmbH,Leipzig,SACHSEN,,True,UNBEFRISTET,2025-07-29,2026-11-01
+10001-1003674431-S,Data Scientist,Product Data Coordinator (m/w/d),Data Scientist,MjAMjAM Petfood GmbH,Massing im Rottal,BAYERN,,True,KEINE_ANGABE,2026-09-08,2026-11-01
+19146-100015297365-S,Data Scientist,Data Engineer / Data Platform Architect (w/m/d),Data Scientist,Bausparkasse Mainz AG,Mainz am Rhein,RHEINLAND_PFALZ,False,True,KEINE_ANGABE,2026-09-25,2026-11-01
+12444-563465370091089-DT-S,Data Scientist,Trainee Fokus Data Science (m/w/d) - Vorstandsbereich Deutschland,Data Scientist,Deutsche Telekom AG,Bonn,NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-07-12,2026-11-01
+21085-16771000-S,Data Scientist,Data Scientist / Machine Learning Engineer (m/w/d) | Healthcare & Life Science,Machine Learning Engineer,Limebit GmbH,Berlin,BERLIN,,,KEINE_ANGABE,2026-09-30,2026-11-01
+13319-899689/1_5671CS-S,Data Scientist,Data Engineer – Production Support & Data Integration (m/w/d),Data Engineer,Hays Professional Solutions GmbH Standort Nürnberg,Erlangen,BAYERN,,True,BEFRISTET,2026-10-29,2026-11-01
+15643-01-YaPqpe-S,Data Scientist,Data Scientist im Statistischen Landesamt NRW – Referentin / Referent im Bereich Experimentelle Stat,"Gruppen-, Teamleiter/in",Information und Technik Nordrhein-Westfalen (IT.NRW),Düsseldorf,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-07,2026-11-01
+20500-2358641-S,Data Scientist,Business Data- und Anforderungsmanager (m/w/d),Wirtschaftsinformatiker/in (Hochschule),Technische Werke Ludwigshafen am Rhein AG,Ludwigshafen am Rhein,RHEINLAND_PFALZ,False,False,UNBEFRISTET,2026-10-17,2026-11-01
+12288-4961410192-S,Data Scientist,KI-Plattform-Experte (m/w/d) mit Schwerpunkt Data Science und LLM Engineering,Data Scientist,Sparda-Bank Hannover eG,Hannover,NIEDERSACHSEN,False,True,UNBEFRISTET,2026-10-12,2026-11-01
+15835-0009030024f002-S,Data Scientist,Data Strategy & Data Governance Consultant (w|m|d),Data Scientist,BridgingIT GmbH,"Nürnberg, Mittelfranken",BAYERN,,True,UNBEFRISTET,2025-03-28,2026-11-01
+12444-563465370093072-DT-S,Data Scientist,Trainee Focus Data Science (m/w/d) - Board Area Germany,Data Scientist,Deutsche Telekom AG,Bonn,NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-07-12,2026-11-01
+20734-000a9500306001-S,Data Scientist,W3-Professur für Data Science and Applied AI in Business,Data Scientist,Justus-Liebig-Universität,"Gießen, Lahn",HESSEN,False,True,UNBEFRISTET,2026-10-06,2026-11-01
+18624-0066865795-S,Data Scientist,2027 : Dualer Student (m/w/d) Data Science und Künstliche Intelligenz- Start 2027,Data Scientist,Stadtwerke Augsburg Holding GmbH,"Augsburg, Bayern",BAYERN,,True,KEINE_ANGABE,2026-08-20,2026-11-01
+14774-BB-562882-12683-652-S,Data Scientist,(Senior) Data Modeler / Data Vault Expert Azure Databricks / Lakehouse (m/w/d),Data Scientist,Deichmann SE,"Essen, Ruhr",NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-05-15,2026-11-01
+10001-1003689132-S,Data Scientist,Data Engineer:in / IT Support (m/w/d),Data Engineer,LOHNunion GmbH,Kiel,SCHLESWIG_HOLSTEIN,True,True,UNBEFRISTET,2026-09-10,2026-11-01
+15835-00090300256002-S,Data Scientist,Lead Consultant Data & AI Solutions (w|m|d),Data Scientist,BridgingIT GmbH,Mannheim,BADEN_WUERTTEMBERG,False,True,UNBEFRISTET,2022-12-28,2026-11-01
+10001-1003768973-S,Data Scientist,Senior Data Engineer / Consultant – Databricks & Azure (m/w/d),Data Engineer,Data Insight Consulting GmbH,Hamburg,HAMBURG,True,True,BEFRISTET,2026-09-27,2026-11-01
+14225-4a4259314ab3f4cf-S,Data Scientist,Doktorand (m/w/d),Data Scientist,MSH Medical School Hamburg,Hamburg,HAMBURG,True,True,KEINE_ANGABE,2026-10-26,2026-11-01
+16897-f76a99b7ddc70206-S,Data Scientist,Data-Governance-Manager Collibra (m/w/d),Data Engineer,Office Events P & B GmbH,Dortmund,NORDRHEIN_WESTFALEN,,True,BEFRISTET,2026-09-30,2026-11-01
+15412-106609X342446-S,Data Scientist,Global Data Steward - Inventory Planning (m/f/d),Data Scientist,Fresenius SE & Co. KG aA,Bad Homburg vor der Höhe,HESSEN,False,True,UNBEFRISTET,2026-07-10,2026-11-01
+15794-469631_49696-1-S,Data Scientist,Senior Consultant Data Science & ML Engineering (m/w/d),IT-Berater/in,Deloitte GmbH,Berlin,BERLIN,False,True,UNBEFRISTET,2025-09-06,2026-11-01
+15794-471558_50428-1-S,Data Scientist,Consultant Data Science & ML Engineering (m/w/d),Data Scientist,Deloitte GmbH,Berlin,BERLIN,False,True,UNBEFRISTET,2026-08-14,2026-11-01
+13635-e06bb467_JB5283692-S,Data Scientist,AI Engineer (m/w/d),Data Scientist,MVZ Düsseldorf-Centrum GbR,Düsseldorf,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-27,2026-11-01
+10001-1003556960-S,Data Scientist,Trainee / Specialist – Geospatial Data Engineering & Spatial Pipelines (m/f/d),Geoinformatiker/in,RE-Managers GmbH,"Bad Grönenbach, Allgäu",BAYERN,,True,UNBEFRISTET,2026-08-18,2026-11-01
+10001-1003697556-S,Data Scientist,Lead Spatial Data & Geospatial Engine Architect (m/w/d),Geoinformatiker/in,RE-Managers GmbH,"Bad Grönenbach, Allgäu",BAYERN,,True,UNBEFRISTET,2026-09-14,2026-11-01
+16088-3148029_4091262-S,Data Scientist,Manager Capacity Management (m/w/d),Data Scientist,DPD Deutschland GmbH,Aschaffenburg,BAYERN,,True,UNBEFRISTET,2026-10-26,2026-11-01
+12265-523804_JB5270612-S,Data Scientist,Development Engineer Optronic Testing and Data Acquisition (m/w/d),Informatiker/in,FERCHAU GmbH Niederlassung Augsburg,Schrobenhausen,BAYERN,,True,KEINE_ANGABE,2026-10-13,2026-11-01
+10001-1003466661-S,Data Scientist,Data Solutions Specialist (m/w/d),Informatiker/in,T & A SYSTEME GmbH,"Hattingen, Ruhr",NORDRHEIN_WESTFALEN,True,True,UNBEFRISTET,2026-07-30,2026-11-01
+12032-R628B62E3-S,Data Scientist,Mitarbeiter Ticketing und Vertrieb (m/w/d),Data Scientist,DIEPA GmbH Filiale Magdeburg,Magdeburg,SACHSEN_ANHALT,,True,UNBEFRISTET,2026-10-15,2026-11-01
+12728-601-1-S,Data Scientist,Experte Messdatenmanagement (m/w/d),Data Scientist,E.ON Grid Solutions GmbH,Hamburg,HAMBURG,False,True,KEINE_ANGABE,2026-10-09,2026-11-01
+10001-1003933633-S,Data Scientist,Instrument Scientist TOFTOF (m/f/d),Naturwissenschaftler/in,TUM- Forschungsneutronenquelle Heinz Maier-Leibnitz (FRM II),Garching bei München,BAYERN,True,True,BEFRISTET,2026-10-29,2026-11-01
+10001-1003582821-S,Data Scientist,AI & Data Science Engineer – EUV Metrology (m/w/d) 1108-626,Data Scientist,PAPEVE GmbH Der Spezialist für Ingenieure Techniker und Fachpersonal,"Aalen, Württemberg",BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-08-21,2026-11-01
+17338-b654a534c257b2a74e-S,Data Scientist,KI-Engineer (m/w/d) - Hybrid,Data Scientist,AVW Unternehmensgruppe,Hamburg,HAMBURG,False,True,KEINE_ANGABE,2026-10-17,2026-11-01
+15412-108628X353572-S,Data Scientist,Global Data Steward Invoice-2-Cash (m/f/d),Data-Consultant,Fresenius SE & Co. KG aA,Bad Homburg vor der Höhe,HESSEN,False,True,UNBEFRISTET,2026-10-20,2026-11-01
+13635-6de79dc0_JB5270880-S,Data Scientist,Semantic Governance Architect (m/w/d),Data Scientist,adorsys GmbH & Co. KG,"Nürnberg, Mittelfranken",BAYERN,False,True,UNBEFRISTET,2026-10-13,2026-11-01
+12874-1643452-1-S,Data Scientist,Project Manager AI and Data Science (f/m/div) - HRC1636571,Data Scientist,Infineon Technologies AG,Regensburg,BAYERN,False,True,UNBEFRISTET,2026-10-15,2026-11-01
+19208-0063677394-S,Data Scientist,Overlay-Experte (m/w/x),Data Scientist,EV Group E. Thallner GmbH,Sankt Florian am Inn,OBEROESTERREICH,,True,KEINE_ANGABE,2026-03-23,2026-11-01
+12265-517684_JB5274021-S,Data Scientist,F&E Scientist Oxidationskatalyse (m/w/d),Ingenieur/in - Chemietechnik,FERCHAU GmbH Niederlassung Rosenheim,"Bruckmühl, Mangfall",BAYERN,,True,KEINE_ANGABE,2026-10-16,2026-11-01
+17338-715d8e4284b8439aaf-S,Data Scientist,Mitarbeiter Digitalisierung & KI (m/w/d) - Hybrid,Data Scientist,Bellmer GmbH,Keltern,BADEN_WUERTTEMBERG,False,True,KEINE_ANGABE,2026-10-22,2026-11-01
+12288-4981941948-S,Data Scientist,Teamlead Artificial Intelligence - MLOps / Machine Learning (m/w/d),Data Scientist,Workwise GmbH,Osnabrück,NIEDERSACHSEN,False,True,UNBEFRISTET,2026-10-28,2026-11-01
+17102-44473185-929-S,Data Scientist,Senior Expert Database Management (m/w/d),Data Scientist,Vodafone GmbH,Düsseldorf,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-09-30,2026-11-01
+10001-1003817215-S,Data Scientist,AI & Data Science Engineer – EUV Metrology - in Arbeitnehmerüberlassung in Oberkochen,Data Scientist,Kirsch GmbH Personalmanagement,Oberkochen,BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-10-07,2026-11-01
+12634-BB-646587-7878-5829-S,Data Scientist,Datenanalyst (m/w/d) - Reporting & Business Intelligence,Business-Analyst/in,Akkodis Germany Tech Experts GmbH,Kiel,SCHLESWIG_HOLSTEIN,,True,UNBEFRISTET,2026-10-28,2026-11-01
+10001-1003898971-S,Data Scientist,Senior Downstream Processing Scientist (m/w/d),Prozessmanager/in - Produktionstechnologie,Chr. Hansen GmbH,Rheinbreitbach,RHEINLAND_PFALZ,,True,UNBEFRISTET,2026-10-22,2026-11-01
+13319-892148/1_621712LS-S,Data Scientist,Senior Scientist Microbiology (m/w/d),Mikrobiologe/-biologin,Hays Professional Solutions GmbH,"Ulm, Donau",BADEN_WUERTTEMBERG,,True,BEFRISTET,2026-09-15,2026-11-01
+12288-4963186761-S,Data Analyst,Data Analyst (m/w/d),Data-Analyst/in,DIS AG Germany,Dresden,SACHSEN,False,True,UNBEFRISTET,2026-10-13,2026-11-01
+12117-YF-51513-YF-S,Data Analyst,Data Analyst (m/w/d),Data-Analyst/in,CHEFS CULINAR West GmbH & Co. KG,Weeze,NORDRHEIN_WESTFALEN,True,True,KEINE_ANGABE,2026-10-12,2026-11-01
+12288-4935044130-S,Data Analyst,Data Analyst (m/w/d),Data-Analyst/in,TechMinds GmbH,Steinau an der Straße,HESSEN,False,True,UNBEFRISTET,2026-09-16,2026-11-01
+10001-1003704716-S,Data Analyst,Data-Analyst (m/w/d),Data-Analyst/in,Dipl.-Ing. Gennadi Rouditser D.I.R.A. Arbeitsvermittlung & Unternehmensberatung,Potsdam,BRANDENBURG,True,True,KEINE_ANGABE,2026-09-14,2026-11-01
+10001-1003485928-S,Data Analyst,Data-Analyst (m/w/d),Data-Analyst/in,Dipl.-Ing. Gennadi Rouditser D.I.R.A. Arbeitsvermittlung & Unternehmensberatung,Berlin,BERLIN,True,True,KEINE_ANGABE,2026-08-04,2026-11-01
+10001-1002120523-S,Data Analyst,Data Analyst (m/w/d),IT-Forensiker/in,dabit Analytics GmbH,Frankfurt am Main,HESSEN,,True,UNBEFRISTET,2025-11-09,2026-11-01
+14751-417A24254-S,Data Analyst,Data Analyst (m/w/d) für Airbus,Data-Analyst/in,"Orizon GmbH, Unit Aviation",Hamburg,HAMBURG,False,True,UNBEFRISTET,2026-10-30,2026-11-01
+11973-c-350491-S,Data Analyst,CRM Data Analyst (m/w/d),Data-Analyst/in,Volkswagen Retail Dienstleistungsgesellschaft mbH,Stuttgart,BADEN_WUERTTEMBERG,True,True,KEINE_ANGABE,2026-10-27,2026-11-01
+12288-4979407743-S,Data Analyst,Senior Data Analyst (m/w/d),Data-Analyst/in,YER,Rostock,MECKLENBURG_VORPOMMERN,False,True,UNBEFRISTET,2026-10-26,2026-11-01
+10001-1003878611-S,Data Analyst,HR Data Analyst,Data-Analyst/in,ASML Berlin AG,Berlin,BERLIN,,True,UNBEFRISTET,2026-10-19,2026-11-01
+19208-0067593767-S,Data Analyst,Data Analyst (m/w/x),Data-Analyst/in,EV Group E. Thallner GmbH,Sankt Florian am Inn,OBEROESTERREICH,,True,KEINE_ANGABE,2026-09-23,2026-11-01
+17172-55D5B59B8CB67DAD2AF-S,Data Analyst,Senior Data Analyst (m/w/d),Data-Analyst/in,Vereinigte Hagelvers. VVaG,"Gießen, Lahn",HESSEN,,,KEINE_ANGABE,2026-09-23,2026-11-01
+15939-BB-635629-7878-4691-S,Data Analyst,Data Analyst (m/w/d),Informatiker/in,Rheinmetall AG,Hamburg,HAMBURG,False,True,UNBEFRISTET,2026-10-16,2026-11-01
+13410-k13572.15732-S,Data Analyst,Data Analyst (m/w/d),Projektingenieur/in,Guldberg GmbH,Weeze,NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2026-06-10,2026-11-01
+11973-c-141765-S,Data Analyst,Data Analyst (m/w/d),Data-Warehouse-Analyst/in,PSD Bank RheinNeckarSaar eG,Stuttgart,BADEN_WUERTTEMBERG,False,True,KEINE_ANGABE,2025-12-12,2026-11-01
+13936-14570-1793257-0-S,Data Analyst,Controller / Data Analyst (m/w/d),Controller/in,Awex HR Consulting GmbH,Köln,NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2026-08-28,2026-11-01
+12265-491680_JB5271037-S,Data Analyst,Senior Data Analyst (m/w/d),Data-Analyst/in,FERCHAU GmbH Vertriebsstützpunkt Greifswald,"Greifswald, Hansestadt",MECKLENBURG_VORPOMMERN,,True,KEINE_ANGABE,2026-10-13,2026-11-01
+13644-298524-S,Data Analyst,Data Analyst (m/w/d),Business-Analyst/in,Hanselmann & Cie. Solutions GmbH,Stuttgart,BADEN_WUERTTEMBERG,False,False,KEINE_ANGABE,2026-09-03,2026-11-01
+10001-1003820446-S,Data Analyst,Data Analyst (m/w/d) Schwerpunkt BI,Information-Architect,BORA Lüftungstechnik GmbH,Raubling,BAYERN,,True,KEINE_ANGABE,2026-10-07,2026-11-01
+15527-k50296.2624-S,Data Analyst,Data Analyst Einkauf (m/w/d),Data-Analyst/in,Vermaat Deutschland Services GmbH,Grafschaft b. Bad Neuenahr-Ahrweiler,RHEINLAND_PFALZ,False,True,UNBEFRISTET,2026-09-20,2026-11-01
+15986-REF295755J-c14ec32-S,Data Analyst,Data Analyst - Energiemanagement (w/m/div.),Data-Analyst/in,Robert Bosch GmbH,Dresden,SACHSEN,False,True,UNBEFRISTET,2026-09-08,2026-11-01
+20263-2343065-S,Data Analyst,Data Analyst Digital Health (m/w/d),Data-Analyst/in,MEDIAN Unternehmensgruppe B.V. & Co. KG,Berlin,BERLIN,False,True,UNBEFRISTET,2026-09-24,2026-11-01
+13185-505729-1760595-0-S,Data Analyst,Data Analyst (all gender),Data-Analyst/in,ALTEN Consulting Services GmbH Bremen,,,,True,UNBEFRISTET,2026-03-18,2026-11-01
+12362-CR031527_626665LS-S,Data Analyst,Data Analyst / IT-Systemexperte (m/w/d),Data-Analyst/in,Brunel GmbH NL Mannheim,Mannheim,BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-10-16,2026-11-01
+13635-a8888a4c_JB5281725-S,Data Analyst,Data Analyst:in Fundraising (m/w/d),Fundraiser/in,Albert Schweitzer Stiftung für unsere Mitwelt,Berlin,BERLIN,False,True,UNBEFRISTET,2026-10-26,2026-11-01
+10000-1207585879-S,Data Analyst,Data Analyst (m/w/d),Fachinformatiker/in - Daten- und Prozessanalyse,FRIWO Gerätebau GmbH,Ostbevern,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-08-19,2026-11-01
+10001-1003939497-S,Data Analyst,Data Analyst (m/w/d) für Process & Data Mining in Celonis,Data-Analyst/in,BayWa AG HR Services,München,BAYERN,,True,UNBEFRISTET,2026-10-30,2026-11-01
+12811-2295144-S,Data Analyst,"Data Analyst (m/w/d), Weeze",Data-Warehouse-Analyst/in,CHEFS CULINAR West GmbH & Co. KG,Weeze,NORDRHEIN_WESTFALEN,False,False,UNBEFRISTET,2026-07-13,2026-11-01
+10001-1003925631-S,Data Analyst,(Junior) Data Analyst mit Schwerpunkt militärische Luftfahrzeuge (m/w/d),Data-Analyst/in,IABG Industrieanlagen Betriebs-GmbH,Ottobrunn,BAYERN,,True,UNBEFRISTET,2026-10-28,2026-11-01
+19637-wuua9oJW-S,Data Analyst,Controller / Data Analyst (m/w/d),Controller/in,FOM Hochschule für Oekonomie & Management Gemeinn GmbH,"Essen, Ruhr",NORDRHEIN_WESTFALEN,,True,KEINE_ANGABE,2026-09-16,2026-11-01
+10000-1197966120-S,Data Analyst,Data Analyst Sales Controlling,Data-Analyst/in,Lantenhammer Consulting Silvia Lantenhammer,München,BAYERN,,True,UNBEFRISTET,2024-02-16,2026-11-01
+12560-A35HD115GZ135UXB-S,Data Analyst,Market Data Analyst (m/w/d),Bankkaufmann/-frau,Bankpower GmbH,Hamburg,HAMBURG,True,True,UNBEFRISTET,2026-06-09,2026-11-01
+12150-13883935-S,Data Analyst,Business Intelligence & Data Analyst (m/w/d),Business-Analyst/in,ARMON Arbeitnehmerüberlassungs- und Montage GmbH,Kirchberg (Hunsrück),RHEINLAND_PFALZ,,True,KEINE_ANGABE,2026-10-05,2026-11-01
+13644-312333-S,Data Analyst,Data Analyst (m/w/d) Controlling,Business-Analyst/in,Dr. Güldener Gruppe,Stuttgart,BADEN_WUERTTEMBERG,True,False,KEINE_ANGABE,2026-09-17,2026-11-01
+13644-305513-S,Data Analyst,(Junior) Data Analyst (w/m/d),Business-Analyst/in,MSR Consulting,Köln,NORDRHEIN_WESTFALEN,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+13644-309005-S,Data Analyst,Data Analyst (m/w/d) Data Analytics,Business-Analyst/in,Syncwork,Wiesbaden,HESSEN,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+13644-298304-S,Data Analyst,Data Analyst (m/w/d) Experimentation,Business-Analyst/in,bonprix,Hamburg,HAMBURG,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+10001-1003942973-S,Data Analyst,Projektmanager mit Schwerpunkt Data Analyst (m/w/d) für AIRBUS,Informatiker/in,SimpleXX GmbH,Hamburg,HAMBURG,,True,KEINE_ANGABE,2026-10-30,2026-11-01
+14005-44426708-99-S,Data Analyst,Master Data Quality Analyst (m/w/d),Data-Analyst/in,Liebherr-International Deutschland GmbH,Biberach an der Riß,BADEN_WUERTTEMBERG,True,True,UNBEFRISTET,2026-09-10,2026-11-01
+20177-44533641-1026-S,Data Analyst,Information Analyst,Data-Analyst/in,Boehringer Ingelheim Pharma GmbH & Co. KG,Biberach an der Riß,BADEN_WUERTTEMBERG,False,True,KEINE_ANGABE,2026-10-27,2026-11-01
+18935-1980713-S,Data Analyst,HR Data Analyst (m/w/d),Data-Warehouse-Analyst/in,CANCOM SE,,,,True,UNBEFRISTET,2025-11-05,2026-11-01
+10001-1003853556-S,Data Analyst,Pricing & Data Analyst 2026-01020 (m/w/d),Data-Analyst/in,Staffinity Consulting GmbH,Düsseldorf,NORDRHEIN_WESTFALEN,True,True,UNBEFRISTET,2026-10-14,2026-11-01
+10001-1003566090-S,Data Analyst,Data Analyst Performance Marketing (m/w/d),Performance-Marketing-Manager/in,Trendline Collection GmbH,Berlin,BERLIN,,True,UNBEFRISTET,2026-08-19,2026-11-01
+12288-4945962964-S,Data Analyst,HR Data Analyst (gn) - remote,Data-Analyst/in,aquitas GmbH,"Nürnberg, Mittelfranken",BAYERN,False,True,UNBEFRISTET,2026-09-23,2026-11-01
+14774-BB-562893-12683-185-S,Data Analyst,CRM Data Analyst (m/w/d),Customer-Experience-Manager/in,Deichmann SE,"Essen, Ruhr",NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-05-15,2026-11-01
+14927-10uufa16q6k-S,Data Analyst,Controller / Data Analyst (m/w/d) im Lebensmittelhandel,Controller/in,dennree GmbH,Töpen,BAYERN,False,True,UNBEFRISTET,2026-11-01,2026-11-01
+10001-1003487835-S,Data Analyst,Senior Data Analyst/ Data Engineer (m/w/d),Data Engineer,LM IT Services AG,Osnabrück,NIEDERSACHSEN,True,True,UNBEFRISTET,2026-08-04,2026-11-01
+18279-1206-4217-8a2bd-S,Data Analyst,(Junior) Analyst Data & Customer Insights (m/w/d),Data-Analyst/in,Netto Marken-Discount Stiftung & Co. KG,Maxhütte-Haidhof,BAYERN,False,True,KEINE_ANGABE,2026-03-26,2026-11-01
+13768-k20361.2083-S,Data Analyst,Analyst Aufsichtsrechtliches Meldewesen / Data Analyst Banking (w/m/d),Data-Analyst/in,TAS ToolBox GmbH,Düsseldorf,NORDRHEIN_WESTFALEN,,True,BEFRISTET,2026-10-07,2026-11-01
+10001-1003816530-S,Data Analyst,SAMSUNG - Sales Operations & Data Analyst (m/w/d),Vertriebscontroller/in,matchING Engineering GmbH,"Eschborn, Taunus",HESSEN,True,True,KEINE_ANGABE,2026-10-07,2026-11-01
+12811-2333733-S,Data Analyst,"Data Analyst (m/w/d), BellandVision GmbH",Data-Warehouse-Analyst/in,BellandVision GmbH,Pegnitz,BAYERN,False,True,UNBEFRISTET,2026-09-14,2026-11-01
+13644-304272-S,Data Analyst,Data Management Analyst (m/w/d),IT-Projektkoordinator/in,GEA,"Oelde, Westfalen",NORDRHEIN_WESTFALEN,True,False,KEINE_ANGABE,2026-10-16,2026-11-01
+12811-2322756-S,Data Analyst,"Expert Data Analyst (m/w/d), Ismaning",Data-Warehouse-Analyst/in,HSE,Ismaning,BAYERN,False,False,UNBEFRISTET,2026-08-27,2026-11-01
+10001-1003368663-S,Data Analyst,Data Analyst (m|w|d),Data-Analyst/in,Rheinhold & Mahla GmbH,Hamburg,HAMBURG,True,True,BEFRISTET,2026-07-10,2026-11-01
+10001-1003522181-S,Data Analyst,Junior Controller / Financial (Data) Analyst (m/w/d),Controller/in,Pates Aktiengesellschaft,München,BAYERN,,True,BEFRISTET,2026-08-11,2026-11-01
+15986-REF295755J-d03bd7f-S,Data Analyst,Data Analyst - Energiemanagement (w/m/div.),Maschinenbaumechaniker/in,Robert Bosch GmbH,Dresden,SACHSEN,False,True,UNBEFRISTET,2026-09-08,2026-11-01
+13644-313330-S,Data Analyst,Data Analyst Robotik / IoT (m/w/d),Datenbankentwickler/in,Alfred Kärcher,Schwaikheim,BADEN_WUERTTEMBERG,False,False,KEINE_ANGABE,2026-10-15,2026-11-01
+10001-1002883951-S,Data Analyst,Data Analyst/ HR Controller (m/w/d),Controller/in,Universitätsklinikum Bonn AöR,Bonn,NORDRHEIN_WESTFALEN,,True,BEFRISTET,2026-04-08,2026-11-01
+12951-c823b8f8-f6bf-4741--S,Data Analyst,Data Analyst Digital Health (m/w/d),Organisator/in,MEDIAN Unternehmensgruppe B.V. & Co. KG,Berlin,BERLIN,False,True,KEINE_ANGABE,2026-09-25,2026-11-01
+11956-2972541792969201-S,Data Analyst,Haema GmbH: Data Analyst / Data Engineer (m/w/d),Data Engineer,Haema GmbH,Leipzig,SACHSEN,False,True,KEINE_ANGABE,2026-10-26,2026-11-01
+13644-311317-S,Data Analyst,Senior Data Analyst (f/m/d),Business-Analyst/in,AppLike Group,Hamburg,HAMBURG,False,False,KEINE_ANGABE,2026-09-17,2026-11-01
+12908-064658383-S,Data Analyst,Data Analyst - Marketing & Growth (w/m/d),Betriebswirt/in (Hochschule),ING Deutschland,Frankfurt am Main,HESSEN,False,False,KEINE_ANGABE,2026-10-16,2026-11-01
+13644-263236-S,Data Analyst,Power BI Data Analyst (m/w/d),Business-Analyst/in,Strategic IT,Herford,NORDRHEIN_WESTFALEN,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+10000-1206359864-S,Data Analyst,Data Management Analyst (m/w/d),Informatiker/in,GEA Group Aktiengesellschaft,"Oelde, Westfalen",NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-04-30,2026-11-01
+15297-1msruz84-S,Data Analyst,Data Analyst (m/w/d) - 221026-2-KAR,Data Engineer,BFI Informationssysteme GmbH,"Karlsruhe, Baden",BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-10-22,2026-11-01
+13012-k11145.3882-S,Data Analyst,(Senior) Data Analyst/in (m/w/d) SAS,IT-Berater/in,empiricus GmbH,München,BAYERN,,True,UNBEFRISTET,2026-02-26,2026-11-01
+21211-WP27949-R1-S,Data Analyst,Data Analyst (m/w/d) / Business-Intelligence-Consultant,Data-Analyst/in,Expert Select GmbH,"Simmern, Hunsrück",RHEINLAND_PFALZ,,True,UNBEFRISTET,2026-10-22,2026-11-01
+10001-1003902646-S,Data Analyst,Senior Data Analyst / Analy­tics Engi­neer (m/w/d),Data-Analyst/in,RST Rostock System Technik GmbH,Rostock,MECKLENBURG_VORPOMMERN,,True,UNBEFRISTET,2026-10-23,2026-11-01
+12931-10571-1798157-0-S,Data Analyst,Projektmanager mit Schwerpunkt Data Analyst (m/w/d) // AIRBUS,Wirtschaftsinformatiker/in (Hochschule),KMS Personaldienstleistungen GmbH,Hamburg,HAMBURG,False,True,UNBEFRISTET,2026-09-29,2026-11-01
+11112-10571-1798156-0-S,Data Analyst,Projektmanager mit Schwerpunkt Data Analyst (m/w/d) // AIRBUS,Wirtschaftsinformatiker/in (Hochschule),KMS Zeitarbeit GmbH,Hamburg,HAMBURG,False,True,UNBEFRISTET,2026-09-29,2026-11-01
+19220-ac456c52c0c0fc0c-S,Data Analyst,Category Insights Analyst (m/w/d),Data-Analyst/in,Kaufland Dienstleistung GmbH & Co. KG,Neckarsulm,BADEN_WUERTTEMBERG,False,True,UNBEFRISTET,2026-09-16,2026-11-01
+13635-8114c96d_JB5277416-S,Data Analyst,Data-Analyst - Retail & Sales Analytics (all genders),Data-Analyst/in,Inovisco Mobile Media GmbH,Köln,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-20,2026-11-01
+13651-JOB-856780-S,Data Analyst,IT Business Engineer & Data Analyst (m/w/d),Data Engineer,VETTER Krantechnik GmbH,Haiger,HESSEN,False,True,UNBEFRISTET,2026-09-16,2026-11-01
+10001-1003942985-S,Data Analyst,Data Analyst & AI Expert (d/m/w) für AIRBUS,Informatiker/in,SimpleXX GmbH,Hamburg,HAMBURG,,True,KEINE_ANGABE,2026-10-30,2026-11-01
+12811-2338118-S,Data Analyst,"(Senior) IT Data Analyst (m/w/d) in Hamburg, Hamburg Stammhaus",Data-Warehouse-Analyst/in,Gerhard D. Wempe GmbH & Co. KG,Hamburg,HAMBURG,False,True,UNBEFRISTET,2026-09-16,2026-11-01
+12811-2349538-S,Data Analyst,"Expert Customer Data Analyst (m/w/d), Ismaning",Data-Warehouse-Analyst/in,HSE,Ismaning,BAYERN,False,False,UNBEFRISTET,2026-10-03,2026-11-01
+10001-1003892058-S,Data Analyst,IT-Entwickler & Analyst im Gesundheitswesen (m/w/d),IT-Administrator/in,Augentageskliniken MVZ Dres. Jacobi GbR,"Gießen, Lahn",HESSEN,,True,UNBEFRISTET,2026-10-21,2026-11-01
+10000-1206374692-S,Data Analyst,Senior HR Controller / HR Data Analyst (m/w/d),Controller/in,Finanz Informatik GmbH & Co. KG,Hannover,NIEDERSACHSEN,True,True,KEINE_ANGABE,2026-05-01,2026-11-01
+12265-521803_JB5280515-S,Data Analyst,Data Analyst im Bereich KI (m/w/d) AIRBUS,Informatiker/in,FERCHAU GmbH Niederlassung Hamburg-City,Hamburg,HAMBURG,,True,KEINE_ANGABE,2026-10-23,2026-11-01
+14001-9296-1797785-0-S,Data Analyst,Data Analyst BI - Finance & Controlling (m/w/d),Wirtschaftsinformatiker/in - IT-Systeme,personalisten GmbH,Mönchengladbach,NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2026-09-25,2026-11-01
+12811-2356147-S,Data Analyst,"Data Analyst Healthcare (m/w/d) in Hamburg, Hamburg (City Nord)",Data-Warehouse-Analyst/in,rehaVital Gesundheitsservice GmbH,Hamburg,HAMBURG,False,True,UNBEFRISTET,2026-10-13,2026-11-01
+10001-1003216172-S,Data Analyst,Finance Analyst & Data Performance (m/w/d),Fachwirt/in - Versicherungen und Finanzen,Edenred Deutschland GmbH,München,BAYERN,,True,UNBEFRISTET,2026-06-12,2026-11-01
+14068-k18924.2543-S,Data Analyst,Staff Data Engineer (m/w/d),Data-Analyst/in,plusYou GmbH,Hamburg,HAMBURG,,True,UNBEFRISTET,2026-10-14,2026-11-01
+18251-34008-S,Data Analyst,Senior Product Analyst (all genders),Data-Analyst/in,Zalando SE,Berlin,BERLIN,,True,KEINE_ANGABE,2026-10-21,2026-11-01
+18121-0066448093-S,Data Analyst,Data & AI Architect (m/w/d),Data-Analyst/in,RENK GmbH,"Augsburg, Bayern",BAYERN,,True,KEINE_ANGABE,2026-07-30,2026-11-01
+20390-979511257-S,Data Analyst,"(Senior) Analyst, International Markets",Data-Analyst/in,Delivery Hero SE,Berlin,BERLIN,,True,UNBEFRISTET,2026-10-27,2026-11-01
+18251-32202-S,Data Analyst,Principal Product Analyst (all genders),Data-Analyst/in,Zalando SE,Berlin,BERLIN,,True,KEINE_ANGABE,2026-08-25,2026-11-01
+16567-44405904-827-S,Data Analyst,Werkstudent Data & Analytics (m/w/d),Data-Analyst/in,Everllence SE,"Augsburg, Bayern",BAYERN,,,KEINE_ANGABE,2026-08-28,2026-11-01
+14412-44060691-325-S,Data Analyst,Tech Analyst - Broker Signup Flows,Data-Analyst/in,DKB Service GmbH,Berlin,BERLIN,,True,KEINE_ANGABE,2026-03-26,2026-11-01
+15240-k50661.4158-S,Data Analyst,SAP MDG / Master Data Quality Analyst (m/w/d),Data Engineer,recruitIT Consulting,,,,True,UNBEFRISTET,2026-10-02,2026-11-01
+12457-1584963-1-S,Data Analyst,Risk Data & Exposure Reporting Analyst (w/m/d),Betriebswirt/in (Hochschule),TARGOBANK AG,Mainz am Rhein,RHEINLAND_PFALZ,False,True,UNBEFRISTET,2026-06-09,2026-11-01
+15086-44345650-729-S,Data Analyst,Data Architect - Microsoft Fabric (w/m/d),Data-Analyst/in,Bechtle AG,Frankfurt am Main,HESSEN,False,True,KEINE_ANGABE,2026-07-30,2026-11-01
+10000-1202502780-S,Data Analyst,Senior Test-Analyst:in im Consulting,Informatiker/in,viadee Unternehmensberatung AG,Köln,NORDRHEIN_WESTFALEN,,True,KEINE_ANGABE,2025-05-14,2026-11-01
+11868-13902460-S,Data Analyst,Data & Process Specialist Homologation (w/m/d) München,Data-Analyst/in,experts I.K. Hofmann GmbH,München,BAYERN,,True,KEINE_ANGABE,2026-10-21,2026-11-01
+10000-1205269286-S,Data Analyst,Data & Analytics Consultant,Data-Analyst/in,Holtkamp Consulting GmbH,Nordhorn,NIEDERSACHSEN,True,True,KEINE_ANGABE,2026-01-27,2026-11-01
+10001-1003841893-S,Data Analyst,Referent (m/w/d) für Data Analytics und strategische Hochschulentwicklung,Data-Analyst/in,Technische Hochschule Ingolstadt Land Bayern,"Ingolstadt, Donau",BAYERN,,True,BEFRISTET,2026-10-12,2026-11-01
+10001-1003824450-S,Data Analyst,Quality & Data Analytics Engineer (m/f/d),Data-Analyst/in,Birkenstock Europe GmbH,Köln,NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2026-10-08,2026-11-01
+12288-4972358651-S,Data Analyst,Werkstudent Data Analytics & Business Intelligence (m/w/d),Data-Analyst/in,Schleswig-Holstein Netz GmbH,"Quickborn, Kreis Pinneberg",SCHLESWIG_HOLSTEIN,False,True,UNBEFRISTET,2026-10-20,2026-11-01
+10001-1003538816-S,Data Analyst,Senior Controller: Data Analytics (m/w/d),Controller/in,PETER-LACKE GmbH,Hiddenhausen,NORDRHEIN_WESTFALEN,,True,KEINE_ANGABE,2026-08-13,2026-11-01
+13635-0f9b45cf_JB5273614-S,Data Analyst,(Senior) Consultant (m/w/d) Data Warehouse Design | Senior Data Analyst,Wirtschaftsinformatiker/in (Hochschule),MID GmbH,"Nürnberg, Mittelfranken",BAYERN,False,True,UNBEFRISTET,2026-10-16,2026-11-01
+18251-34282-S,Data Analyst,Senior Product Analyst - Data Products (all genders),Produktmanager/in,Zalando SE,"Ansbach, Mittelfranken",BAYERN,,True,KEINE_ANGABE,2026-10-30,2026-11-01
+12265-510646_JB5270024-S,Data Analyst,Qlik Sense Analyst (m/w/d),Informatiker/in,FERCHAU GmbH Niederlassung Oldenburg,Lemwerder,NIEDERSACHSEN,,True,KEINE_ANGABE,2026-10-12,2026-11-01
+13319-899941/1_5787CS-S,Data Analyst,Business Data Steward Expert (m/w/d),Wirtschaftsinformatiker/in (Hochschule),Hays Professional Solutions GmbH,Lübeck,SCHLESWIG_HOLSTEIN,,True,KEINE_ANGABE,2026-10-30,2026-11-01
+18591-473750812-S,Data Analyst,Cyber Security Analyst - Data Leakage Prevention (w/m/d),Betriebswirt/in (Fachschule) - Bank,HSBC Continental Europe S.A. Germany,Düsseldorf,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-07-31,2026-11-01
+12951-8c01a7af-8b2d-4381--S,Data Analyst,Digital Manager / Data Analyst Sales Back Office (m/w/d),Wirtschaftsinformatiker/in (Hochschule),Ulrich Rieck & Söhne Intern. Sped. Ges. mbH & Co. KG,Großbeeren,BRANDENBURG,False,True,KEINE_ANGABE,2026-09-15,2026-11-01
+10000-1208192295-S,Data Analyst,Operations Manager Analyst (w/m/d),Data Scientist,HUK-COBURG VVaG,Coburg,BAYERN,True,True,KEINE_ANGABE,2026-10-07,2026-11-01
+18306-BB-634674-7878-2951-S,Data Analyst,Data & Reporting Analyst Rückversicherung P&C  (m/w/d),Controller/in,AXA Konzern AG,Köln,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-04-24,2026-11-01
+13635-efd52dff_JB5222111-S,Data Analyst,"Senior Manager CRM, Data & Analytics (m/w/d)",Data-Analyst/in,Elis Deutschland,Hamburg,HAMBURG,False,True,UNBEFRISTET,2026-08-14,2026-11-01
+15086-44445527-915-S,Data Analyst,Threat Intelligence Analyst - Cyber Defense Center (CDC) (w/m/d),Data-Analyst/in,Bechtle AG,Neckarsulm,BADEN_WUERTTEMBERG,True,True,KEINE_ANGABE,2026-09-16,2026-11-01
+10000-1204965070-S,Data Analyst,Marketing Automation & Data Specialist (m/w/d),Data-Analyst/in,clicks digital GmbH,Dresden,SACHSEN,,True,UNBEFRISTET,2025-12-29,2026-11-01
+10001-1003815401-S,Data Analyst,SAMSUNG - Data & Business Analyst (m/w/d),Business-Analyst/in,matchING Engineering GmbH,"Eschborn, Taunus",HESSEN,True,True,KEINE_ANGABE,2026-10-07,2026-11-01
+10001-1003790238-S,Data Analyst,Commercial Performance Analyst (m/w/d),Performance-Marketing-Manager/in,Amicus Organisation für Arbeit und Personal GmbH,"Eschborn, Taunus",HESSEN,,True,KEINE_ANGABE,2026-10-02,2026-11-01
+14763-44480234-102-S,Data Analyst,Experte Data Analytics & Projektmanagement in der Einkaufssteuerung / Governance (m/w/d),Data-Analyst/in,Vonovia SE,Bochum,NORDRHEIN_WESTFALEN,True,True,KEINE_ANGABE,2026-10-03,2026-11-01
+20390-979248157-S,Data Analyst,Senior Product Analyst - Quick Commerce (Fixed-term),Data-Analyst/in,Delivery Hero SE,,BERLIN,,True,BEFRISTET,2026-10-26,2026-11-01
+12811-2321436-S,Data Analyst,"Data Analyst (m/w/d) - Erneuerbare Energien Windkraft, DE - Sengenthal (Lkr. Neumarkt i.d.OPf.)",Data-Analyst/in,Max Bögl Bauservice GmbH und Co. KG,Sengenthal,BAYERN,False,True,UNBEFRISTET,2026-08-25,2026-11-01
+10000-1208204381-S,Data Analyst,Manager Controlling & Data Analytics (m/w/d),Wirtschaftsinformatiker/in (Hochschule),RNA Aachen GmbH,Aachen,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-07,2026-11-01
+10001-1003850161-S,Data Analyst,Analyst Vertriebsperformance & BI Reporting (m/w/d),Kaufmännische Fachkraft,DFH Haus GmbH,"Simmern, Hunsrück",RHEINLAND_PFALZ,,True,UNBEFRISTET,2026-10-13,2026-11-01
+17552-44431244-99-S,Data Analyst,ERP Expert Data Analytics & Reporting - SAP S/4HANA (m/w/d),Data-Analyst/in,Peri-Werk A. Schwörer GmbH & Co. KG,Weißenhorn,BAYERN,,True,KEINE_ANGABE,2026-09-10,2026-11-01
+13326-8726-1800779-0-S,Data Analyst,Senior Business Intelligence Engineer (m/w/d) - Power BI & Data Analytics,Data-Analyst/in,FlexIT Consulting GmbH,,,,True,UNBEFRISTET,2026-10-21,2026-11-01
+15086-44380791-814-S,Data Analyst,Inhouse SAP S/4HANA Consultant Master Data & Logistics (w/m/d),Data-Analyst/in,Bechtle AG,Neckarsulm,BADEN_WUERTTEMBERG,False,True,KEINE_ANGABE,2026-08-15,2026-11-01
+13644-313025-S,Data Analyst,Data Analyst Customer Base Management / CRM & Retention (all genders),Business-Analyst/in,Tele Columbus,Leipzig,SACHSEN,True,False,KEINE_ANGABE,2026-10-07,2026-11-01
+12444-563465374033794-DT-S,Data Analyst,Werkstudent*in Data / Business Analytics bei fraenk (m/w/d/-) - congstar GmbH,Data-Analyst/in,Deutsche Telekom AG,Köln,NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-07-12,2026-11-01
+20778-2308026-S,Data Analyst,Senior Data Quality Manager - Kundendaten (m/w/d),Data-Analyst/in,SozialBank AG,Köln,NORDRHEIN_WESTFALEN,,,UNBEFRISTET,2026-08-04,2026-11-01
+15006-k40180.5868-S,Data Analyst,Data Analytics Engineer (m/w/d) – Automobilindustrie,Data Engineer,prognum Automotive GmbH,Stuttgart,BADEN_WUERTTEMBERG,True,True,UNBEFRISTET,2026-06-19,2026-11-01
+19821-00OGWU5F4ZVV2LE2-S,Data Analyst,Senior Data Engineer (m/w/d) SAP und Snowflake,Data-Analyst/in,Schmitt GmbH,Erlangen,BAYERN,,True,UNBEFRISTET,2026-08-31,2026-11-01
+10001-1003750336-S,Data Analyst,Manager (m/w/d) Data Analytics & Finance Transformation,Business-Analyst/in,SIGNAL IDUNA Krankenversicherung a. G.,Hamburg,HAMBURG,,,UNBEFRISTET,2026-09-23,2026-11-01
+13892-3149648_4094467-S,Data Analyst,Produktionsanalyst (w/m/d),Data-Analyst/in,Freudenberg & Co. KG,Wertheim am Main,BADEN_WUERTTEMBERG,False,True,UNBEFRISTET,2026-10-30,2026-11-01
+17373-1030540-S,Data Analyst,Business Intelligence Spezialist / Data Analyst (w/m/d) im Controlling (VZ/TZ) Standort Rheine,Betriebswirt/in (Fachschule) - Controlling/Bachelor Professional in Wirtschaft,DEOS AG,Rheine,NORDRHEIN_WESTFALEN,,True,KEINE_ANGABE,2026-10-14,2026-11-01
+10001-1003616396-S,Data Analyst,Teamlead (m/w/d) Customer-Data-Management & KI-Anwendungen,KI-Manager/in,WVD Dialog Marketing GmbH,"Chemnitz, Sachsen",SACHSEN,,True,UNBEFRISTET,2026-08-28,2026-11-01
+15170-492070992-S,Data Analyst,Analyst (f/m/d) Sales Intelligence & AI,Data-Warehouse-Analyst/in,Siemens Energy Global GmbH & Co. KG,Erlangen,BAYERN,,True,UNBEFRISTET,2026-10-22,2026-11-01
+12265-447316_JB5275943-S,Data Analyst,Datenbankanalyst (m/w/d),Data-Analyst/in,FERCHAU GmbH Niederlassung Karlsruhe City,"Karlsruhe, Baden",BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-10-19,2026-11-01
+12633-e2f48b25_JB5266053-S,Data Analyst,Retail Analyst (m/w/d),Betriebswirt/in (Hochschule) - Marketing,DIS AG Office & Management,"Eschborn, Taunus",HESSEN,,True,UNBEFRISTET,2026-10-08,2026-11-01
+20079-5491WG8R-S,Data Analyst,682/B - Datenanalyst (m/w/d),Data-Analyst/in,Finanz Informatik GmbH & Co. KG,Frankfurt am Main,HESSEN,False,True,KEINE_ANGABE,2026-10-19,2026-11-01
+20471-2361373-S,Data Analyst,Pricing Analyst (m/w/d),Wertpapieranalyst/in,Hoffmann SE,München,BAYERN,False,False,UNBEFRISTET,2026-10-21,2026-11-01
+18306-BB-634255-7878-1875-S,Data Analyst,Process Analyst (m/w/d),Versicherungskaufmann/-frau,AXA Konzern AG,Köln,NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2025-12-16,2026-11-01
+15086-44435722-910-S,Data Analyst,Web Analyst (w/m/d),Webadministrator/in,Bechtle AG,Neckarsulm,BADEN_WUERTTEMBERG,True,True,KEINE_ANGABE,2026-09-11,2026-11-01
+10001-1003285478-S,Data Analyst,CRM Analyst (m/w/d),CRM-Manager/in,POCO Einrichtungsmärkte GmbH,Bergkamen,NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2026-06-25,2026-11-01
+10001-1001447291-S,Data Analyst,Senior Projektleiter:in Data & AI im Consulting,Informatiker/in,viadee Unternehmensberatung AG,Köln,NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2025-05-22,2026-11-01
+10001-1003901329-S,Data Analyst,Analyst Automatisierung & Analytics (m/w/d) - Köln oder Künzelsau,Wirtschaftsinformatiker/in (Hochschule),Albert Berner Deutschland GmbH,Künzelsau,BADEN_WUERTTEMBERG,True,True,UNBEFRISTET,2026-10-23,2026-11-01
+15086-44444657-915-S,Data Analyst,SOC Analyst (w/m/d),IT-Berater/in,Bechtle AG,Bonn,NORDRHEIN_WESTFALEN,True,True,KEINE_ANGABE,2026-09-16,2026-11-01
+16025-0067554802-S,Data Analyst,Portfoliomanager Energiebeschaffung (m/w/d),Data-Analyst/in,nvb Nordhorner Versorgungsbetr,Nordhorn,NIEDERSACHSEN,,True,KEINE_ANGABE,2026-09-21,2026-11-01
+19220-d5257fffe233539f-S,Data Analyst,"Spezialist Digitales Marketing - Reporting, Data Analytics & AI (m/w/d)",Digital-Analyst/in,Kaufland Dienstleistung GmbH & Co. KG,"Heilbronn, Neckar",BADEN_WUERTTEMBERG,False,True,UNBEFRISTET,2026-10-15,2026-11-01
+10001-1003908766-S,Data Analyst,"Beschäftigte:r im Bibliotheksdienst (m/w/d), EG 13 TV-H",Data-Analyst/in,Universität Kassel,"Kassel, Hessen",HESSEN,,False,BEFRISTET,2026-10-26,2026-11-01
+10001-1003556965-S,Data Analyst,Trainee / Specialist – Data Mining & Web Scraping Automation (m/f/d),Softwareentwickler/in,RE-Managers GmbH,"Bad Grönenbach, Allgäu",BAYERN,,True,UNBEFRISTET,2026-08-18,2026-11-01
+10001-1003769798-S,Data Analyst,Projektassistenz Datenanalyse & Operations (m/w/d),Data-Analyst/in,EF Sales GmbH,Schacht-Audorf,SCHLESWIG_HOLSTEIN,,True,UNBEFRISTET,2026-09-28,2026-11-01
+12147-20260916225238-S,Data Analyst,Qlik / SAP Analytics Developer (m/w/d),Data-Analyst/in,JobImpulse Süd GmbH Mainz,Köln,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-09-17,2026-11-01
+18251-34126-S,Data Analyst,Senior Controller Logistics Operations (all genders),Data-Analyst/in,Zalando SE,"Lahr, Schwarzwald",BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-10-28,2026-11-01
+12513-0007658710-S,Data Analyst,Mitarbeiter Stammdatenmanagement und Stammdatenpflege SAP...,Data-Analyst/in,markilux GmbH + Co. KG,Emsdetten,NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-10-15,2026-11-01
+13243-16426709-JB-S,Data Analyst,"Akademischer Mitarbeiter – Automatische Metadatenextraktion mithilfe von LLMs, Datenanalyse (m/w/d)",Data-Analyst/in,Karlsruher Institut für Technologie (KIT) Campus Nord,Eggenstein-Leopoldshafen,BADEN_WUERTTEMBERG,True,True,KEINE_ANGABE,2026-10-29,2026-11-01
+10000-1207995459-S,Data Analyst,"Datenanalyst – Schwerpunkt Wasser, Wärme und Photovoltaik (m/w/d)",Data-Analyst/in,Stadtwerke Nienburg GmbH,Nienburg (Weser),NIEDERSACHSEN,False,True,UNBEFRISTET,2026-09-23,2026-11-01
+10001-1003898317-S,Data Analyst,Lead Analytics Engineer (m/w/d),Data-Analyst/in,Print & More GmbH,"Uelzen, Lüneburger Heide",NIEDERSACHSEN,True,True,UNBEFRISTET,2026-10-22,2026-11-01
+10001-1003809626-S,Data Analyst,Senior Manager Data & Analytics (Energiewirtschaft / SAP Finance) (all genders),Data-Analyst/in,cronos Unternehmensberatung GmbH,"Münster, Westfalen",NORDRHEIN_WESTFALEN,True,True,UNBEFRISTET,2026-10-06,2026-11-01
+10001-1003898240-S,Data Analyst,Lead Analytics Engineer (m/w/d),Data-Analyst/in,Print & More GmbH,Bochum,NORDRHEIN_WESTFALEN,True,True,UNBEFRISTET,2026-10-22,2026-11-01
+10001-1001384519-S,Data Analyst,Natural Language Annotator (m/w/d) – Hebräisch – Israel,Data-Analyst/in,Jobs Europe AB,,SONSTIGES,True,,UNBEFRISTET,2025-04-29,2026-11-01
+10001-1003831225-S,Data Analyst,Data Analytics & Reporting Coordinator (m/w/d) – Controlling,Data-Analyst/in,STÖBER Antriebstechnik GmbH & Co. KG,Pforzheim,BADEN_WUERTTEMBERG,True,True,KEINE_ANGABE,2026-10-09,2026-11-01
+12438-13872951-S,Data Analyst,Qlik Sense-Analyst (m/w/d),Informatiker/in,expertum GmbH,Hamburg,HAMBURG,False,True,KEINE_ANGABE,2026-09-21,2026-11-01
+12811-2347322-S,Data Analyst,"(Junior) Business Analyst (m/w/d) mit Schwerpunkt Controlling, h+p hachmeister + partner GmbH",Data-Analyst/in,h+p hachmeister + partner GmbH,Bielefeld,NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-09-30,2026-11-01
+19130-44492326-108-S,Data Analyst,"Spezialist quantitative Erst- und Rückversicherung (all genders) Münster, Düsseldorf",Data-Analyst/in,Provinzial Holding AG,Düsseldorf,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-09,2026-11-01
+12608-1416678-95097-1-S,Data Analyst,(Senior) Analytics Berater (SAP BDC inkl. SAC & Datasphere) (m/w/d),Data-Analyst/in,W. Brandenburg GmbH & Co.oHG,Frankfurt am Main,HESSEN,False,False,UNBEFRISTET,2026-06-29,2026-11-01
+13319-897880/1_626282LS-S,Data Analyst,Commercial Strategy Analyst (m/f/d),Business-Analyst/in,Hays Professional Solutions GmbH,Düsseldorf,NORDRHEIN_WESTFALEN,,True,BEFRISTET,2026-10-14,2026-11-01
+13319-898222/1_5054CS-S,Data Analyst,Service Management Analyst (m/f/d),Leiter/in - Finanz- und Rechnungswesen,Hays Professional Solutions GmbH,Aschheim,BAYERN,,True,BEFRISTET,2026-10-20,2026-11-01
+15412-108065X353128-S,Data Analyst,Supply Chain Analyst (m/f/d),Leiter/in - Supply-Chain-Management,Fresenius SE & Co. KG aA,Bad Homburg vor der Höhe,HESSEN,False,True,UNBEFRISTET,2026-10-14,2026-11-01
+10001-1003870455-S,Data Analyst,"Dozent / Lehrkraft (m/w/d) für KI, Python & Data Analytics",Dozent/in - Hochschulen und Akademien,Zusammen mit der Ukraine e.V.,"Fellbach, Württemberg",BADEN_WUERTTEMBERG,True,True,UNBEFRISTET,2026-10-16,2026-11-01
+10001-1003817406-S,Data Analyst,Application Analyst (all genders),Anwendungsberater/in,Serrala Group GmbH,Norderstedt,SCHLESWIG_HOLSTEIN,True,True,UNBEFRISTET,2026-10-07,2026-11-01
+16947-976425016-S,Data Analyst,Logistics Cost Analyst (d/f/m),Controller/in,Airbus Operations GmbH Werk Bremen,Hamburg,HAMBURG,False,True,UNBEFRISTET,2026-10-13,2026-11-01
+12206-13910009-S,Data Analyst,Junior Credit Risk Analyst (gn),Bankkaufmann/-frau,PS Direkt GmbH & Co. KG,Düsseldorf,NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2026-10-28,2026-11-01
+12811-2342525-S,Data Analyst,"Business Intelligence- / Data Warehouse-Analyst / Entwickler  (m/w/x), Langenhagen (expert ...",Data-Warehouse-Analyst/in,expert Zentrale,"Langenhagen, Han",NIEDERSACHSEN,False,True,UNBEFRISTET,2026-09-23,2026-11-01
+12634-BB-646411-7878-9884-S,Data Analyst,Security Operations Center (SOC) Analyst (m/w/d),IT-Sicherheitskoordinator/in,Akkodis Germany Tech Experts GmbH,Köln,NORDRHEIN_WESTFALEN,,True,KEINE_ANGABE,2026-10-22,2026-11-01
+12811-2342524-S,Data Analyst,"Junior Business Intelligence- / Data Warehouse-Analyst / Entwickler  (m/..., Langenhagen (expert ...",Data-Warehouse-Analyst/in,expert Zentrale,"Langenhagen, Han",NIEDERSACHSEN,False,True,UNBEFRISTET,2026-09-23,2026-11-01
+10001-1002528340-S,Data Analyst,Datenanalyst (m/w/d) in Wiesbaden,Data-Analyst/in,Betriebskrankenkasse Linde,Wiesbaden,HESSEN,,True,UNBEFRISTET,2026-02-02,2026-11-01
+13185-507081-1798323-0-S,Data Analyst,Business Intelligence Analyst (all gender),Business-Analyst/in,ALTEN Consulting Services GmbH Köln,,,,True,UNBEFRISTET,2026-09-30,2026-11-01
+12362-TR-304529_626044LS-S,Data Analyst,Business Intelligence Spezialist/in oder Datenanalyst/in (w/m/d),Data-Analyst/in,Brunel GmbH NL Kiel,Kiel,SCHLESWIG_HOLSTEIN,,True,UNBEFRISTET,2026-10-14,2026-11-01
+20282-965313236-S,Data Analyst,Datenanalyst Einkauf (d/f/m) AIRBUS,Data-Analyst/in,AERO HighProfessionals GmbH,Hamburg,HAMBURG,,True,KEINE_ANGABE,2026-08-21,2026-11-01
+10001-1003602665-S,Data Analyst,Datenmanager (m/w/d),Data Scientist,Kraftfahrer-Schutz e.V.,München,BAYERN,True,True,UNBEFRISTET,2026-08-26,2026-11-01
+15120-1594038-3-S,Data Analyst,Senior Finance Analyst (m/f/d) – Manufacturing Finance,Betriebswirt/in (Hochschule) - Rechnungswesen und Controlling,Thermo Fisher Scientific GmbH,Wuppertal,NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-10-09,2026-11-01
+10001-1003836372-S,Data Analyst,Datenanalyst/Machine Learning Engineer m/w/d,Data-Analyst/in,Petkus Technologie GmbH,Wutha-Farnroda,THUERINGEN,,True,UNBEFRISTET,2026-10-09,2026-11-01
+10001-1003640559-S,Data Analyst,Assistenz der Geschäftsleitung / Schwerpunkt Controlling (m/w/d),Assistent/in - Controlling,Franz Habisreutinger GmbH & Co. KG Holzzentrum,"Weingarten, Württemberg",BADEN_WUERTTEMBERG,True,True,UNBEFRISTET,2026-09-02,2026-11-01
+10001-1002210164-S,Data Analyst,PowerBI Experte zur Visualisierung von Telematikdaten,Data-Analyst/in,emagine GmbH,Mannheim,BADEN_WUERTTEMBERG,True,True,KEINE_ANGABE,2025-11-26,2026-11-01
+20390-980252313-S,Data Analyst,"Senior / Staff Product Analyst - (Logistics, Service) ",Produktmanager/in - Modedesign und Bekleidung,Delivery Hero SE,,,,,KEINE_ANGABE,2026-10-30,2026-11-01
+10001-1003180845-S,Data Analyst,Senior Reporting Analyst (m/w/d) bei M-net,Business-Analyst/in,M-net Telekommunikations GmbH,München,BAYERN,,True,UNBEFRISTET,2026-06-05,2026-11-01
+12811-2336857-S,Data Analyst,"Business Intelligence Manager (all genders), Elmshorn",Data-Warehouse-Analyst/in,Orlen Deutschland,Elmshorn,SCHLESWIG_HOLSTEIN,False,True,UNBEFRISTET,2026-09-15,2026-11-01
+10001-1001840207-S,Data Analyst,Referent:in Strategisches Medizincontrolling (DRG Analyst) (m/w/d),Controller/in,Helios Verwaltung Ost GmbH,Berlin,BERLIN,,True,KEINE_ANGABE,2025-09-15,2026-11-01
+10000-1206903189-S,Data Analyst,"Senior GRC Analyst (m,f,x)",Softwareentwickler/in,HelloFresh SE,Berlin,BERLIN,True,True,BEFRISTET,2026-06-19,2026-11-01
+13319-896417/1_3294CS-S,Data Analyst,Finance Business Partner and Analyst Procurement (m/f/d),Leiter/in - Finanz- und Rechnungswesen,Hays AG,Wien,,,True,UNBEFRISTET,2026-10-26,2026-11-01
+12265-350002_JB5285817-S,Data Engineer,Data Engineer (m/w/d),Data Engineer,FERCHAU GmbH Niederlassung Osnabrück,Osnabrück,NIEDERSACHSEN,,True,KEINE_ANGABE,2026-10-30,2026-11-01
+10001-1003938941-S,Data Engineer,Data Engineer (m/w/d),Data Engineer,Investitions- und Strukturbank (ISB),Mainz am Rhein,RHEINLAND_PFALZ,,True,UNBEFRISTET,2026-10-30,2026-11-01
+10001-1003935510-S,Data Engineer,DATA ENGINEER (w/m/d),Data Engineer,ISG Personalmanagement GmbH,,SALZBURG,,True,UNBEFRISTET,2026-10-29,2026-11-01
+12265-470077_JB5283451-S,Data Engineer,Data Engineer (m/w/d),Data Engineer,FERCHAU GmbH Niederlassung Köln,Köln,NORDRHEIN_WESTFALEN,,True,KEINE_ANGABE,2026-10-27,2026-11-01
+13635-0cdeb4ae_JB5284872-S,Data Engineer,Data Engineer (m/w/d),Data Engineer,AraCom-Gruppe,Kamp-Lintfort,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-29,2026-11-01
+11949-17395192-S,Data Engineer,Data Engineer,Data Engineer,Deloitte Services Wirtschaftsprüfungs GmbH,"Wien,Innere Stadt",WIEN,False,True,UNBEFRISTET,2026-10-20,2026-11-01
+11949-17395373-S,Data Engineer,Data Engineer,Data Engineer,Stadt Wien - Wiener Wohnen Kunden- service GmbH,"Wien,Simmering",WIEN,False,True,UNBEFRISTET,2026-10-20,2026-11-01
+11949-17395851-S,Data Engineer,Data Engineer,Data Engineer,VIG - VIENNA INSURANCE GROUP AG,"Wien,Innere Stadt",WIEN,False,True,UNBEFRISTET,2026-10-20,2026-11-01
+12288-4967312016-S,Data Engineer,Data Engineer (m/w/d),Data Engineer,ELA Container GmbH,Haren (Ems),NIEDERSACHSEN,False,True,UNBEFRISTET,2026-10-16,2026-11-01
+11949-17393280-S,Data Engineer,Data Engineer,Data Engineer,Deloitte Services Wirtschaftsprüfungs GmbH,"Wien,Innere Stadt",WIEN,False,True,UNBEFRISTET,2026-10-16,2026-11-01
+10001-1003710548-S,Data Engineer,Data Engineer (w/m/d),Data Engineer,Hornetsecurity GmbH,Hannover,NIEDERSACHSEN,True,True,UNBEFRISTET,2026-09-15,2026-11-01
+12265-512821_JB5198165-S,Data Engineer,Data Engineer (m/w/d),Data Engineer,FERCHAU GmbH Niederlassung Oldenburg,Lemwerder,NIEDERSACHSEN,False,True,KEINE_ANGABE,2026-07-15,2026-11-01
+11949-17387579-S,Data Engineer,Data Engineer,Data Engineer,ÖBB Technische Services GmbH,"Wien,Favoriten",WIEN,False,True,UNBEFRISTET,2026-10-13,2026-11-01
+10001-1003552327-S,Data Engineer,Data Engineer (m/w/d),Data Engineer,ADS Allg Deutsche Steuerberatung mbH,Hamburg,HAMBURG,,True,UNBEFRISTET,2026-08-17,2026-11-01
+11949-17383558-S,Data Engineer,Data Engineer,Data Engineer,A1 Telekom Austria AG,"Klagenfurt,12.Bez.:St. Martin",KAERNTEN,False,True,UNBEFRISTET,2026-10-09,2026-11-01
+11949-17382030-S,Data Engineer,Data Engineer,Data Engineer,voestalpine HR Services GmbH,Linz,OBEROESTERREICH,False,True,UNBEFRISTET,2026-10-08,2026-11-01
+11949-17381883-S,Data Engineer,Data Engineer,Data Engineer,NTS Netzwerk Telekom Service AG,Grambach,STEIERMARK,False,True,UNBEFRISTET,2026-10-08,2026-11-01
+11949-17377256-S,Data Engineer,Data Engineer,Data Engineer,REWE International Dienstleistungsgesellschaft m.b.H.,Wiener Neudorf,NIEDEROESTERREICH,False,False,UNBEFRISTET,2026-10-06,2026-11-01
+11949-17376220-S,Data Engineer,Data Engineer,Data Engineer,HXS GmbH,"Wien,Landstraße",WIEN,False,True,UNBEFRISTET,2026-10-05,2026-11-01
+11949-17310478-S,Data Engineer,Data Engineer,Data Engineer,EV Group E. Thallner GmbH,Badhöring,OBEROESTERREICH,False,True,UNBEFRISTET,2026-10-05,2026-11-01
+11949-17373399-S,Data Engineer,Data Engineer,Data Engineer,ebswien kläranlage & tierservice Ges.m.b.H.,"Wien,Simmering",WIEN,False,True,UNBEFRISTET,2026-10-02,2026-11-01
+11949-17368278-S,Data Engineer,Data Engineer,Data Engineer,McHunters e.U.,Bezirk: Schärding,,False,True,UNBEFRISTET,2026-09-28,2026-11-01
+11949-17331093-S,Data Engineer,Data Engineer,Data Engineer,ACP IT Solutions GmbH,"Graz,05.Bez.:Gries",STEIERMARK,False,True,UNBEFRISTET,2026-09-28,2026-11-01
+11949-17359894-S,Data Engineer,Data Engineer,Data Engineer,Sprecher Automation GmbH,Linz,OBEROESTERREICH,False,True,UNBEFRISTET,2026-09-26,2026-11-01
+11949-17359165-S,Data Engineer,Data Engineer,Data Engineer,Plasser & Theurer Export von Bahnbaumaschinen Gesellschaft m.b.H.,Linz,OBEROESTERREICH,False,True,UNBEFRISTET,2026-09-26,2026-11-01
+11949-17363294-S,Data Engineer,Data Engineer,Data Engineer,MED-EL Elektromedizinische Geräte GmbH,Hötting,TIROL,False,True,UNBEFRISTET,2026-09-26,2026-11-01
+11949-17289439-S,Data Engineer,Data Engineer,Data Engineer,Deloitte Services Wirtschaftsprüfungs GmbH,"Wien,Innere Stadt",WIEN,False,True,UNBEFRISTET,2026-09-26,2026-11-01
+11949-17366672-S,Data Engineer,Data Engineer,Data Engineer,ACP do IT GmbH,St. Pölten,NIEDEROESTERREICH,False,True,UNBEFRISTET,2026-09-26,2026-11-01
+11949-17365107-S,Data Engineer,Data Engineer,Data Engineer,KPMG Advisory GmbH,Österreich,,False,True,UNBEFRISTET,2026-09-26,2026-11-01
+11949-17361277-S,Data Engineer,Data Engineer,Data Engineer,voestalpine HR Services GmbH,Linz,OBEROESTERREICH,False,True,UNBEFRISTET,2026-09-26,2026-11-01
+11949-17358298-S,Data Engineer,Data Engineer,Data Engineer,FRONIUS International GmbH,Wels,OBEROESTERREICH,False,True,UNBEFRISTET,2026-09-26,2026-11-01
+11949-17363661-S,Data Engineer,Data Engineer,Data Engineer,WienIT GmbH,"Wien,Landstraße",WIEN,False,True,UNBEFRISTET,2026-09-26,2026-11-01
+11949-17352657-S,Data Engineer,Data Engineer,Data Engineer,TOMORIS GmbH,Unterhart,OBEROESTERREICH,False,True,UNBEFRISTET,2026-09-15,2026-11-01
+11949-17353724-S,Data Engineer,Data Engineer,Data Engineer,NTS Netzwerk Telekom Service AG,Grambach,STEIERMARK,False,True,UNBEFRISTET,2026-09-15,2026-11-01
+11949-17351724-S,Data Engineer,Data Engineer,Data Engineer,Bechtle GmbH,"Wien,Meidling",WIEN,False,True,UNBEFRISTET,2026-09-14,2026-11-01
+11949-17349411-S,Data Engineer,Data Engineer,Data Engineer,WIENER STADTWERKE GmbH,"Wien,Landstraße",WIEN,False,True,UNBEFRISTET,2026-09-10,2026-11-01
+11949-17339365-S,Data Engineer,Data Engineer,Data Engineer,Bechtle GmbH,"Wien,Meidling",WIEN,False,True,UNBEFRISTET,2026-09-02,2026-11-01
+11949-17334385-S,Data Engineer,Data Engineer,Data Engineer,REWE International Dienstleistungsgesellschaft m.b.H.,"Wien,Meidling",WIEN,False,False,UNBEFRISTET,2026-08-28,2026-11-01
+11949-17330963-S,Data Engineer,Data Engineer,Data Engineer,BUNDESRECHENZENTRUM GmbH,"Wien,Landstraße",WIEN,False,True,UNBEFRISTET,2026-08-25,2026-11-01
+11949-17315995-S,Data Engineer,Data Engineer,Data Engineer,APS Group GmbH & Co KG,"Graz,04.Bez.:Lend",STEIERMARK,False,False,UNBEFRISTET,2026-08-11,2026-11-01
+11949-17311791-S,Data Engineer,Data Engineer,Data Engineer,Mann & Mouse IT-Services GmbH,Rosenau,OBEROESTERREICH,False,True,UNBEFRISTET,2026-08-06,2026-11-01
+11949-17306879-S,Data Engineer,Data Engineer,Data Engineer,Sprecher Automation GmbH,Linz,OBEROESTERREICH,False,True,UNBEFRISTET,2026-08-03,2026-11-01
+11949-17305456-S,Data Engineer,Data Engineer,Data Engineer,BUNDESRECHENZENTRUM GmbH,"Wien,Landstraße",WIEN,False,True,UNBEFRISTET,2026-07-31,2026-11-01
+11949-17295095-S,Data Engineer,Data Engineer,Data Engineer,REWE International Dienstleistungsgesellschaft m.b.H.,Wiener Neudorf,NIEDEROESTERREICH,False,False,UNBEFRISTET,2026-07-22,2026-11-01
+11949-17295088-S,Data Engineer,Data Engineer,Data Engineer,REWE International Dienstleistungsgesellschaft m.b.H.,Wiener Neudorf,NIEDEROESTERREICH,False,False,UNBEFRISTET,2026-07-22,2026-11-01
+11949-17289235-S,Data Engineer,Data Engineer,Data Engineer,Deloitte Services Wirtschaftsprüfungs GmbH,"Wien,Innere Stadt",WIEN,False,True,UNBEFRISTET,2026-07-16,2026-11-01
+11949-17289615-S,Data Engineer,Data Engineer,Data Engineer,Deloitte Services Wirtschaftsprüfungs GmbH,"Wien,Innere Stadt",WIEN,False,True,UNBEFRISTET,2026-07-16,2026-11-01
+11949-17288257-S,Data Engineer,Data Engineer,Data Engineer,CANCOM Austria AG,Bezirk: Klagenfurt Stadt,,False,True,UNBEFRISTET,2026-07-15,2026-11-01
+11949-17285630-S,Data Engineer,Data Engineer,Data Engineer,voestalpine HR Services GmbH,Linz,OBEROESTERREICH,False,True,UNBEFRISTET,2026-07-13,2026-11-01
+11949-17278635-S,Data Engineer,Data Engineer,Data Engineer,Rail Cargo Austria Aktiengesellschaft,"Wien,Favoriten",WIEN,False,True,UNBEFRISTET,2026-07-07,2026-11-01
+11949-17270389-S,Data Engineer,Data Engineer,Data Engineer,x-tention Informationstechnologie GmbH,"Wien,Landstraße",WIEN,False,True,UNBEFRISTET,2026-06-29,2026-11-01
+11949-17265800-S,Data Engineer,Data Engineer,Data Engineer,EVN AG,Maria Enzersdorf,NIEDEROESTERREICH,False,True,UNBEFRISTET,2026-06-24,2026-11-01
+11949-17242511-S,Data Engineer,Data Engineer,Data Engineer,CETEO GmbH,Bundesland: Wien,,False,True,UNBEFRISTET,2026-06-02,2026-11-01
+11949-17226697-S,Data Engineer,Data Engineer,Data Engineer,TOMORIS GmbH,Unterhart,OBEROESTERREICH,False,True,UNBEFRISTET,2026-05-19,2026-11-01
+15158-2026287051-S,Data Engineer,Senior Data Engineer (m/w/d),Data Engineer,Tesla Germany GmbH,Berlin,BERLIN,,True,KEINE_ANGABE,2026-10-26,2026-11-01
+12288-4983624658-S,Data Engineer,Senior Data Engineer (m/w/d),Data Engineer,Bertrandt Services GmbH,Erlangen,BAYERN,False,True,UNBEFRISTET,2026-10-29,2026-11-01
+12265-517918_JB5280861-S,Data Engineer,Senior Data Engineer (m/w/d),Data Engineer,FERCHAU GmbH Niederlassung Dresden,Dresden,SACHSEN,,True,KEINE_ANGABE,2026-10-23,2026-11-01
+13635-fa2f5bda_JB5283017-S,Data Engineer,Principal Data Engineer (m/w/d),Data Engineer,Alexander Thamm GmbH,"Essenbach, Niederbayern",BAYERN,False,True,UNBEFRISTET,2026-10-26,2026-11-01
+13635-b9645f9d_JB5282732-S,Data Engineer,Senior Data Engineer (m/w/d),Data Engineer,Alexander Thamm GmbH,"Essenbach, Niederbayern",BAYERN,False,True,UNBEFRISTET,2026-10-26,2026-11-01
+10001-1003926896-S,Data Engineer,Data Science Engineer m/w/d,Data Engineer,Krannich Group GmbH,Weil der Stadt,BADEN_WUERTTEMBERG,True,True,UNBEFRISTET,2026-10-28,2026-11-01
+19533-976460273-S,Data Engineer,(Senior) Data Engineer (m/w/d),Data Engineer,Ströer SE & Co. KGaA,,,False,False,KEINE_ANGABE,2026-10-13,2026-11-01
+12465-1607958-2-S,Data Engineer,Data Engineer (w/m/d),Informatiker/in,Siemens AG,Frankfurt am Main,HESSEN,False,True,KEINE_ANGABE,2026-10-28,2026-11-01
+13635-b31fd295_JB5277511-S,Data Engineer,Data Engineer / Analytics Engineer (m/w/d),Data Engineer,BV Bestseller Verlag GmbH,Bochum,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-20,2026-11-01
+16602-3e1d77c6a19d8fa9-S,Data Engineer,AI & Data Engineer (m/w/d),Data Engineer,Nagel-Group Logistics SE,Versmold,NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-09-17,2026-11-01
+12288-4966029391-S,Data Engineer,Staff Data Engineer (m/w/d),Data Engineer,plusYOU GmbH,Hamburg,HAMBURG,False,True,UNBEFRISTET,2026-10-15,2026-11-01
+12288-4964543918-S,Data Engineer,Senior Data Engineer (m/w/d),Data Engineer,Real I.S. AG Gesellschaft für Immobilien Assetmanagement,München,BAYERN,False,True,UNBEFRISTET,2026-10-14,2026-11-01
+10001-1003252000-S,Data Engineer,Intermediate Data Engineer (m/w/d),Data Engineer,BCM Solutions GmbH,Stuttgart,BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-06-18,2026-11-01
+10001-1003904199-S,Data Engineer,Data Engineer (m/w/d),Informatiker/in,Citema Group GmbH,Dresden,SACHSEN,True,True,UNBEFRISTET,2026-10-23,2026-11-01
+10001-1003251996-S,Data Engineer,Senior Data Engineer (m/w/d),Data Engineer,BCM Solutions GmbH,Stuttgart,BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-06-18,2026-11-01
+12288-4932478814-S,Data Engineer,Senior Data Engineer (m/w/d),Data Engineer,YER,Dresden,SACHSEN,False,True,UNBEFRISTET,2026-09-08,2026-11-01
+19821-1CLO89TQ0YJOM81C-S,Data Engineer,Support Data Engineer (m/w/d),Informatiker/in,Schmitt GmbH,Erlangen,BAYERN,,True,UNBEFRISTET,2026-10-27,2026-11-01
+13644-313108-S,Data Engineer,Data Engineer (m/w/d),Datenbankentwickler/in,AraCom IT Services,Kamp-Lintfort,NORDRHEIN_WESTFALEN,True,False,KEINE_ANGABE,2026-10-09,2026-11-01
+13644-306933-S,Data Engineer,Data Engineer (m/w/d),Datenbankentwickler/in,Creditreform,Neuss,NORDRHEIN_WESTFALEN,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+13644-304080-S,Data Engineer,Data Engineer (m/w/d),Datenbankentwickler/in,WFF-IT,Quakenbrück,NIEDERSACHSEN,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+13644-262061-S,Data Engineer,Data Engineer (m/w/d),Datenbankentwickler/in,SCHICKLER Unternehmensberatung,Hamburg,HAMBURG,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+13644-290571-S,Data Engineer,Data Engineer (w/m/d),Datenbankentwickler/in,con terra,"Münster, Westfalen",NORDRHEIN_WESTFALEN,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+12608-1388924-28033-1-S,Data Engineer,Data Product Engineer (m/w/d),Data Engineer,REWE Group,Köln,NORDRHEIN_WESTFALEN,False,False,UNBEFRISTET,2026-03-26,2026-11-01
+10001-1003713573-S,Data Engineer,Data Engineer Waffensystemdaten (m/w/d),Data Engineer,IABG Industrieanlagen Betriebs-GmbH,Ottobrunn,BAYERN,,True,UNBEFRISTET,2026-09-16,2026-11-01
+18024-10Q9A00000X0K-S,Data Engineer,IT-Spezialist Data Engineer (m/w/d),Data Engineer,Volksbank Mittweida eG,Mittweida,SACHSEN,True,True,KEINE_ANGABE,2026-11-01,2026-11-01
+12514-202609bumedes01-S,Data Engineer,Data Engineer (m/w/d),Wirtschaftsinformatiker/in (Hochschule),Bundesliga Media GmbH,Köln,NORDRHEIN_WESTFALEN,False,True,BEFRISTET,2026-09-28,2026-11-01
+10001-1003581894-S,Data Engineer,Senior Data Engineer (m/w/d),Informatiker/in,Cs2 ITEC GmbH   Co. KG,Dresden,SACHSEN,,True,KEINE_ANGABE,2026-08-21,2026-11-01
+16236-979960802-S,Data Engineer,Senior Big Data Engineer (m/w/d),Data Engineer,Sopra Steria SE,,,,,KEINE_ANGABE,2026-10-29,2026-11-01
+10000-1206395361-S,Data Engineer,Data Engineer SOC (m/w/d),Data Engineer,IBH connect GmbH,Dresden,SACHSEN,False,True,UNBEFRISTET,2026-05-08,2026-11-01
+10001-1003829565-S,Data Engineer,Data Engineer (m/w/d),Datenbankentwickler/in,OBO Bettermann Holding GmbH & Co. KG,Menden (Sauerland),NORDRHEIN_WESTFALEN,,True,KEINE_ANGABE,2026-10-09,2026-11-01
+14046-407-1798958-0-S,Data Engineer,Data Engineer:in / IT Support (m/w/d),Data Engineer,Talentschuppen GmbH,,,,True,UNBEFRISTET,2026-10-05,2026-11-01
+12688-REG-43773-RJA-S,Data Engineer,Data Engineer / BI-Architekt*in (m/w/d),Data Engineer,Stuttgarter Wohnungs- und Städtebaugesellschaft mbH,Stuttgart,BADEN_WUERTTEMBERG,True,True,KEINE_ANGABE,2026-10-19,2026-11-01
+17172-93B8356FF8F0AB13391-S,Data Engineer,Geospatial Solutions & Data Engineer (m/w/d),Data Engineer,Vereinigte Hagelvers. VVaG,"Gießen, Lahn",HESSEN,,,KEINE_ANGABE,2026-09-23,2026-11-01
+12288-4963186422-S,Data Engineer,Data Engineer (m/w/d) SAS Base,Data Engineer,SIGNAL IDUNA Bauspar AG,Hamburg,HAMBURG,False,True,UNBEFRISTET,2026-10-13,2026-11-01
+12634-BB-644393-7878-7058-S,Data Engineer,Senior Data Engineer (m/w/d),Softwareentwickler/in,Akkodis Germany Tech Experts GmbH,Dresden,SACHSEN,,True,UNBEFRISTET,2026-10-26,2026-11-01
+16752-r5446-S,Data Engineer,Data Engineer* / Machine Learning Engineer*,Data Engineer,inovex GmbH,Erlangen,BAYERN,,True,KEINE_ANGABE,2025-05-22,2026-11-01
+13644-313923-S,Data Engineer,Data Engineer (m/f/d),Datenbankentwickler/in,Statista,Hamburg,HAMBURG,True,False,KEINE_ANGABE,2026-10-29,2026-11-01
+12336-a26f1201j0434431-S,Data Engineer,Azure Data Platform Engineer (m/w/d),Data Engineer,netgo group GmbH,"Borken, Westfalen",NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-10-21,2026-11-01
+10001-1003937156-S,Data Engineer,"Senior Data Engineer (w/m/d) – Data Integration, Data Warehouse",Data Engineer,Wardow GmbH Potsdam,Potsdam,BRANDENBURG,,True,KEINE_ANGABE,2026-10-30,2026-11-01
+10001-1003806867-S,Data Engineer,Data Engineer (all genders),Data Engineer,BORA Lüftungstechnik GmbH,Raubling,BAYERN,,True,KEINE_ANGABE,2026-10-06,2026-11-01
+10001-1003717099-S,Data Engineer,Senior Data Platform Engineer,Data Engineer,Smartly.io Solutions GmbH,Berlin,BERLIN,,True,UNBEFRISTET,2026-09-16,2026-11-01
+14456-k11173.27547-S,Data Engineer,Data & Cloud Integration Engineer (m/w/d),Data Engineer,Heinrich Schmid GmbH & Co. KG,Reutlingen,BADEN_WUERTTEMBERG,False,True,UNBEFRISTET,2026-07-09,2026-11-01
+14225-8c688661304dba85-S,Data Engineer,Data Engineer (m/w/d),Wirtschaftsinformatiker/in - IT-Systeme,x1F GmbH,Hamburg,HAMBURG,True,True,KEINE_ANGABE,2026-10-09,2026-11-01
+10001-1003904235-S,Data Engineer,Data Engineer Kubernetes (m/w/d),Informatiker/in,Citema Group GmbH,Dresden,SACHSEN,True,True,UNBEFRISTET,2026-10-23,2026-11-01
+10000-1207890498-S,Data Engineer,Data Engineer (m/w/d),Wirtschaftsinformatiker/in (Hochschule),ELA Container GmbH,Haren (Ems),NIEDERSACHSEN,False,True,UNBEFRISTET,2026-09-14,2026-11-01
+10000-1208277853-S,Data Engineer,"SENIOR DATA ENGINEER/ARCHITECT
+
+(M/W/D)",Data Engineer,Interzero CSG GmbH,Köln,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-13,2026-11-01
+10000-1204800274-S,Data Engineer,Senior Data Engineer im Consulting,Informatiker/in,viadee Unternehmensberatung AG,"Münster, Westfalen",NORDRHEIN_WESTFALEN,,True,KEINE_ANGABE,2025-12-10,2026-11-01
+12608-1382495-28042-2-S,Data Engineer,Data Engineer (m/w/d) Software,Informatiker/in,REWE Group,Köln,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-14,2026-11-01
+17102-44539952-1029-S,Data Engineer,Senior Data Platform & DevOps Engineer (m/w/d),Data Engineer,Vodafone GmbH,Düsseldorf,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-30,2026-11-01
+12601-11934-1770336-0-S,Data Engineer,Senior Data & Integration Engineer (m/w/d),Data Engineer,LZ Informatik,"Nürnberg, Mittelfranken",BAYERN,,True,UNBEFRISTET,2026-05-05,2026-11-01
+12951-42498840-1da2-4bfa--S,Data Engineer,Manager Data Engineer (m/w/d),Softwareentwickler/in,Tom Tailor GmbH,Hamburg,HAMBURG,False,True,KEINE_ANGABE,2026-10-01,2026-11-01
+12265-518419_JB5276908-S,Data Engineer,Senior Data Engineer bei Siemens Energy (m/w/d),Data Engineer,FERCHAU GmbH Niederlassung Nürnberg City,Erlangen,BAYERN,,True,KEINE_ANGABE,2026-10-20,2026-11-01
+11112-2088-1798149-0-S,Data Engineer,Senior Data Engineer*,Softwareentwickler/in,Valentum Engineering GmbH,,,False,True,UNBEFRISTET,2026-09-29,2026-11-01
+12265-514930_JB5275577-S,Data Engineer,Senior Data Engineer AWS bei Siemens (m/w/d),Data Engineer,FERCHAU GmbH Niederlassung Nürnberg City,Erlangen,BAYERN,,True,KEINE_ANGABE,2026-10-19,2026-11-01
+20282-964322255-S,Data Engineer,Technical Data Engineer (m/w/d) - AIRBUS,Data Engineer,AERO HighProfessionals GmbH,Donauwörth,BAYERN,,True,KEINE_ANGABE,2026-08-17,2026-11-01
+12288-4978841632-S,Data Engineer,Senior Data Engineer Azure & Databricks (m/w/d),Data Engineer,Müller Service GmbH,"Fischach, Schwaben",BAYERN,False,True,UNBEFRISTET,2026-10-26,2026-11-01
+13185-507286-1801691-0-S,Data Engineer,Support Data Engineer (all gender),Data Engineer,ALTEN Consulting Services GmbH Nürnberg,,,,True,UNBEFRISTET,2026-10-27,2026-11-01
+10001-1003179463-S,Data Engineer,Senior Data Engineer (w/m/d),Data-Consultant,Wichterich & Partner Gesellschaft für IT-Dienstleistungen mbH,Hamburg,HAMBURG,True,True,UNBEFRISTET,2026-06-05,2026-11-01
+13644-263234-S,Data Engineer,Azure Data Engineer (m/w/d),Datenbankentwickler/in,Strategic IT,Herford,NORDRHEIN_WESTFALEN,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+13644-292655-S,Data Engineer,SAP Data Engineer (m/w/d),Datenbankentwickler/in,MERKUR GROUP,Espelkamp,NORDRHEIN_WESTFALEN,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+13644-295755-S,Data Engineer,(Senior) Data Engineer (m/w/d),Datenbankentwickler/in,Deichmann,"Essen, Ruhr",NORDRHEIN_WESTFALEN,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+13644-282525-S,Data Engineer,Data Engineer (m/w/d) Datawarehouse,Datenbankentwickler/in,CEWE,Oldenburg (Oldb),NIEDERSACHSEN,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+13644-294261-S,Data Engineer,KI Data Engineer (w/m/d),Datenbankentwickler/in,Syngenio,Hamburg,HAMBURG,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+12951-b7362f69-891b-4498--S,Data Engineer,Data Engineer - Schwerpunkt Microsoft (m/w/d),Datenbankentwickler/in,DPD Deutschland GmbH,Karlstein am Main,BAYERN,False,True,KEINE_ANGABE,2026-09-02,2026-11-01
+13644-313451-S,Data Engineer,Data Engineer (w/m/d) Cloud/Big Data,IT-Systemadministrator/in,Cologne Intelligence,Köln,NORDRHEIN_WESTFALEN,True,False,KEINE_ANGABE,2026-10-15,2026-11-01
+10001-1003938559-S,Data Engineer,(Senior) Data Migration Engineer (m/w/d) Schwerpunkt Teamcenter,Data Engineer,Profi Talent Recruitment UG PTR,,,True,True,UNBEFRISTET,2026-10-30,2026-11-01
+16752-r18165-S,Data Engineer,Cloud Engineer* Data & AI,Data Engineer,inovex GmbH,"Karlsruhe, Baden",BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-07-22,2026-11-01
+12811-2229055-S,Data Engineer,"Data Engineer (m/w/d), Zentrale",Data-Warehouse-Analyst/in,Bartels-Langness Handelsgesellschaft mbH & Co. KG,Kiel,SCHLESWIG_HOLSTEIN,False,False,UNBEFRISTET,2026-04-15,2026-11-01
+13185-506895-1794312-0-S,Data Engineer,Data Engineer Energiewirtschaft (all gender),Data Engineer,ALTEN Consulting Services GmbH Köln,,,,True,UNBEFRISTET,2026-09-04,2026-11-01
+13185-506896-1794314-0-S,Data Engineer,Data Engineer Energiewirtschaft (all gender),Data Engineer,ALTEN Consulting Services GmbH Köln,,,,True,UNBEFRISTET,2026-09-04,2026-11-01
+13185-506897-1794318-0-S,Data Engineer,Data Engineer Energiewirtschaft (all gender),Data Engineer,ALTEN Consulting Services GmbH Köln,,,,True,UNBEFRISTET,2026-09-04,2026-11-01
+13635-74c543a4_JB5274949-S,Data Engineer,Data Engineer – Data & Analytics Northern Europe (w/m/d),Data Engineer,Redion,München,BAYERN,False,True,UNBEFRISTET,2026-10-16,2026-11-01
+12336-a26f1192j0456072-S,Data Engineer,Data Engineer Celonis (all genders),Data Engineer,EXXETA AG,Mannheim,BADEN_WUERTTEMBERG,False,True,KEINE_ANGABE,2026-10-13,2026-11-01
+16752-r15302-S,Data Engineer,Senior Data Engineer* Microsoft Fabric,Data Engineer,inovex GmbH,"Karlsruhe, Baden",BADEN_WUERTTEMBERG,False,True,KEINE_ANGABE,2026-06-15,2026-11-01
+16752-r5333-S,Data Engineer,Senior Data Engineer* / Machine Learning Engineer*,Data Engineer,inovex GmbH,"Karlsruhe, Baden",BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2025-05-22,2026-11-01
+12457-1422481-1-S,Data Engineer,Senior Data Engineer Risiko Regulatorik (w/m/d),Data Engineer,TARGOBANK AG,Duisburg,NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2025-05-22,2026-11-01
+13644-308349-S,Data Engineer,Cloud Data Engineer (m/w/d),IT-Systemadministrator/in,PRODATO,Berlin,BERLIN,False,False,KEINE_ANGABE,2026-09-03,2026-11-01
+13644-300975-S,Data Engineer,Consultant Data Engineer (m/w/d),IT-Berater/in,DEED Consulting,Langenfeld (Rheinland),NORDRHEIN_WESTFALEN,False,False,KEINE_ANGABE,2026-09-03,2026-11-01
+13644-53975-S,Data Engineer,Data Engineer / Software Entwickler * (m/w/d),Anwendungsprogrammierer/in,ADEAL Systems,Neu-Isenburg,HESSEN,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+12811-2313924-S,Data Engineer,"(Senior) Data Engineer  (m/w/d), Infomotion GmbH",Data Engineer,Infomotion GmbH,Hamburg,HAMBURG,False,True,KEINE_ANGABE,2026-08-14,2026-11-01
+12811-2313914-S,Data Engineer,"Senior Data Engineer (m/w/d), Infomotion GmbH",Data Engineer,Infomotion GmbH,Köln,NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-08-14,2026-11-01
+20079-VewiDQEM-S,Data Engineer,631/B - Data Platform Ops Engineer (m/w/d),Data Engineer,Finanz Informatik GmbH & Co. KG,"Münster, Westfalen",NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-09-21,2026-11-01
+10001-1003797292-S,Data Engineer,Data Integration Engineer (m/w/d) – Schwerpunkt Streaming & Confluent,Data Engineer,CITTI Handelsgesellschaft mbH & Co. KG,Kiel,SCHLESWIG_HOLSTEIN,,True,KEINE_ANGABE,2026-10-05,2026-11-01
+13635-3ed2d804_JB5286157-S,Data Engineer,Senior Cloud Data Engineer (all genders),Data Engineer,DYMATRIX GmbH,Stuttgart,BADEN_WUERTTEMBERG,False,True,UNBEFRISTET,2026-10-30,2026-11-01
+13635-d780e451_JB5286154-S,Data Engineer,Senior AI Data Engineer (all genders),Data Engineer,DYMATRIX GmbH,Hamburg,HAMBURG,False,True,UNBEFRISTET,2026-10-30,2026-11-01
+13635-b83be62b_JB5286145-S,Data Engineer,(Junior) Cloud Data Engineer (all genders),Data Engineer,DYMATRIX GmbH,Stuttgart,BADEN_WUERTTEMBERG,False,True,UNBEFRISTET,2026-10-30,2026-11-01
+12444-563465374108906-DT-S,Data Engineer,Senior Software Engineer Data (m/w/d/x),Data Engineer,Deutsche Telekom AG,Bonn,NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-07-12,2026-11-01
+16947-964334604-S,Data Engineer,Data Handling System Engineer (d/m/w),Data Engineer,Airbus Defence and Space GmbH,Immenstaad am Bodensee,BADEN_WUERTTEMBERG,False,True,UNBEFRISTET,2026-08-17,2026-11-01
+16918-M8VVL369YRFVGF68-S,Data Engineer,Data Management Engineer (m/w/d),Wirtschaftsingenieur/in,PersEH GmbH,Herzogenrath,NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2026-09-18,2026-11-01
+12265-525724_JB5283855-S,Data Engineer,Data Platform Support Engineer bei Siemens Energy  (m/w/d),Data Engineer,FERCHAU GmbH Niederlassung Nürnberg City,Erlangen,BAYERN,,True,KEINE_ANGABE,2026-10-28,2026-11-01
+13410-k13572.15799-S,Data Engineer,Data Management Engineer (m/w/d),Datenbankadministrator/in,Guldberg GmbH,Herzogenaurach,BAYERN,,,UNBEFRISTET,2026-06-29,2026-11-01
+12288-4985195748-S,Data Engineer,Data Platform Engineer - Snowflake & dbt (m/f/d),Data Engineer,Bertrandt Services GmbH,Erlangen,BAYERN,False,True,UNBEFRISTET,2026-10-30,2026-11-01
+13814-44533856-1026-S,Data Engineer,DataCenter Engineer (w/d/m),Data Engineer,Med. Hochschule Hannover,Hannover,NIEDERSACHSEN,False,True,KEINE_ANGABE,2026-10-27,2026-11-01
+10001-1003844389-S,Data Engineer,Junior BI & Data Solution Engineer (m/w/d),Data Engineer,REHAU Industries SE & Co. KG,Erlangen,BAYERN,,True,UNBEFRISTET,2026-10-12,2026-11-01
+12514-202609mz01dps01-S,Data Engineer,Data Platform Engineer (w/m/d),Softwareentwickler/in,MZV Moderner Zeitschriften Vertrieb GmbH & Co. KG,Unterschleißheim,BAYERN,False,True,KEINE_ANGABE,2026-09-24,2026-11-01
+13348-1641191-1-S,Data Engineer,Data Engineer (all genders),Informatiker/in,Deutsche Lufthansa AG,Köln,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-08,2026-11-01
+10001-1003857849-S,Data Engineer,Signal Processing & Data Engineer,Ingenieur/in - Elektrotechnik,LIMATICA GmbH,"Chemnitz, Sachsen",SACHSEN,True,True,UNBEFRISTET,2026-10-14,2026-11-01
+12457-1537582-1-S,Data Engineer,Senior Data Engineer / Data Architect Risk Regulation (w/m/d),Data Engineer,TARGOBANK AG,Duisburg,NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-02-13,2026-11-01
+12811-2346779-S,Data Engineer,"Data Engineer*, Vakanz - Heek",Data-Warehouse-Analyst/in,2G Energy AG,,,False,True,UNBEFRISTET,2026-09-30,2026-11-01
+15548-1530218-1-S,Data Engineer,Data Engineer - Digital Health Excellence Center (w/m/d),Data Engineer,EY Consulting GmbH,Stuttgart,BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-01-26,2026-11-01
+12951-eea4a8cc-06d9-4258--S,Data Engineer,Data & AI Engineer (m/w/d),Informatiker/in (Weiterbildung),Fitness First Germany GmbH,Frankfurt am Main,HESSEN,False,True,KEINE_ANGABE,2026-09-14,2026-11-01
+13644-311618-S,Data Engineer,Data Engineer – Schwerpunkt Programmierung & Datenpipelines* (m/w/d),Datenbankentwickler/in,Haeger Consulting,Bonn,NORDRHEIN_WESTFALEN,True,False,KEINE_ANGABE,2026-09-24,2026-11-01
+15170-492646963-S,Data Engineer,Data Analytics Engineer (f/m/d),Data-Warehouse-Analyst/in,Siemens Energy Global GmbH & Co. KG,Berlin,BERLIN,False,True,UNBEFRISTET,2026-10-30,2026-11-01
+12288-4932493506-S,Data Engineer,Senior Data Engineer (m/w/d) On-Premises & Kubernetes,Data Engineer,YER,Dresden,SACHSEN,False,True,UNBEFRISTET,2026-09-08,2026-11-01
+13644-295850-S,Data Engineer,Data Engineer - Künstliche Intelligenz  (m/w/d),Datenbankentwickler/in,NorCom,München,BAYERN,False,False,KEINE_ANGABE,2026-09-03,2026-11-01
+13644-293414-S,Data Engineer,Data Engineer (all genders),Datenbankentwickler/in,PRODYNA,Hamburg,HAMBURG,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+13151-1635239-1-S,Data Engineer,Data Engineer & Architect (d/m/w/x),Informatiker/in,Mercedes-Benz Group AG,Stuttgart,BADEN_WUERTTEMBERG,False,True,KEINE_ANGABE,2026-09-22,2026-11-01
+12336-a26f1122j0448740-S,Data Engineer,Senior Data Engineer - Data Analytics Plattform (a*),Data Engineer,Hamburger Energienetze GmbH,Hamburg,HAMBURG,False,True,KEINE_ANGABE,2026-08-04,2026-11-01
+13410-k13572.15924-S,Data Engineer,Data Engineer AWS / Data Warehouse (w/m/d),Prozessmanager/in - Produktionstechnologie,Guldberg GmbH,Frankfurt am Main,HESSEN,,True,UNBEFRISTET,2026-10-02,2026-11-01
+20471-2358344-S,Data Engineer,Senior Data Platform Engineer (m/w/d),Site Reliability Engineer,Hoffmann SE,München,BAYERN,False,False,UNBEFRISTET,2026-10-16,2026-11-01
+17102-44539988-1029-S,Data Engineer,Manager Data Architect (m/w/d),Data Engineer,Vodafone GmbH,Düsseldorf,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-30,2026-11-01
+13185-506492-1784596-0-S,Data Engineer,Data Center Operations Engineer (all gender),Data Engineer,ALTEN Consulting Services GmbH Bremen,,,,True,UNBEFRISTET,2026-07-14,2026-11-01
+10000-1207844143-S,Data Engineer,Data & IoT Engineer (m/w/d),Informatiker/in,Jöst GmbH & Co KG Fördertechnik,Dülmen,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-09-09,2026-11-01
+13644-304891-S,Data Engineer,IT-Anwendungsentwickler / Data Engineer (m/w/d),Anwendungsprogrammierer/in,W&B,Lübeck,SCHLESWIG_HOLSTEIN,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+19739-0065669381-S,Data Engineer,Database-Engineer (m/w/d),Data Engineer,Verlag C.H.Beck GmbH & Co. KG,München,BAYERN,,True,KEINE_ANGABE,2026-06-29,2026-11-01
+14751-417A22784-S,Data Engineer,Technical Data Engineer (m/w/d) AIRBUS,Ingenieur/in - Luft- und Raumfahrttechnik,"Orizon GmbH, Unit Aviation",Donauwörth,BAYERN,False,True,UNBEFRISTET,2026-10-01,2026-11-01
+10001-1003791402-S,Data Engineer,Geospatial Data Engineer & Spatial Pipelines (m/f/d),Data Engineer,RE-Managers GmbH,"Bad Grönenbach, Allgäu",BAYERN,,True,UNBEFRISTET,2026-10-03,2026-11-01
+14922-139497-S,Data Engineer,Data Platform Engineer (m/w/d),Entwickler/in Digitale Medien,ORDIX AG,"Augsburg, Bayern",BAYERN,False,True,KEINE_ANGABE,2026-09-28,2026-11-01
+13669-NKF0VFQYE77CVKEH-S,Data Engineer,Datacenter Engineer / Techniker (m/w/d),Data Engineer,puro Personaldienstleistung GmbH,Frankfurt am Main,HESSEN,,True,UNBEFRISTET,2026-10-29,2026-11-01
+10000-1206192745-S,Data Engineer,Business Intelligence - Data Engineer (w/m/d),Mathematiker/in,HUK-COBURG VVaG,Coburg,BAYERN,,True,UNBEFRISTET,2026-04-16,2026-11-01
+13644-313925-S,Data Engineer,Data & Analytics Engineer (m/f/d),Business-Analyst/in,Statista,Berlin,BERLIN,True,False,KEINE_ANGABE,2026-10-29,2026-11-01
+10001-1003441773-S,Data Engineer,Data Analytics Engineer SAP (m/w/d),ERP-Anwendungsentwickler/in,Noerr Solutions GmbH Co. KG,Karlsdorf-Neuthard,BADEN_WUERTTEMBERG,True,True,UNBEFRISTET,2026-07-24,2026-11-01
+12362-TR249390_4973CS-S,Machine Learning,Machine Learning Engineer (w/m/d),Machine Learning Engineer,Brunel GmbH NL Braunschweig,Braunschweig,NIEDERSACHSEN,,True,KEINE_ANGABE,2026-10-19,2026-11-01
+10000-1195268326-S,Machine Learning,Machine Learning Engineer (m/w/d),Machine Learning Engineer,OPTUM GmbH,"Heilbronn, Neckar",BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2025-01-22,2026-11-01
+13635-27f1898f_JB5285588-S,Machine Learning,Machine Learning Engineer (m/w/d) – Hamburg,Machine Learning Engineer,Decisity (CITO GmbH),Hamburg,HAMBURG,False,True,UNBEFRISTET,2026-10-30,2026-11-01
+10001-1002774190-S,Machine Learning,Bachelorand Machine Learning CFD (m/w/d),Machine Learning Engineer,Enrichment Technology Company Ltd Niederlassung Deutschland,Jülich,NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2026-03-17,2026-11-01
+14688-20266jf81388-000-S,Machine Learning,Machine Learning Innovation Engineer (m/w/d),Machine Learning Engineer,ARRK Engineering GmbH,München,BAYERN,True,True,UNBEFRISTET,2026-09-04,2026-11-01
+21046-16846234-S,Machine Learning,ML-Engineer (m/w/d) – Machine Learning für Recyclinganlagen,Machine Learning Engineer,Eggersmann Gruppe GmbH & Co. KG / SO Halle,Aachen,NORDRHEIN_WESTFALEN,,,KEINE_ANGABE,2026-10-21,2026-11-01
+14688-2026cql4nofg-000-S,Machine Learning,Machine Learning Engineer Automatisiertes Fahren (m/w/d),Machine Learning Engineer,ARRK Engineering GmbH,München,BAYERN,True,True,UNBEFRISTET,2026-09-04,2026-11-01
+12288-4980534565-S,Machine Learning,Softwareentwickler - Machine Learning / Python (m/w/d),Softwareentwickler/in,Workwise GmbH,Rostock,MECKLENBURG_VORPOMMERN,False,True,UNBEFRISTET,2026-10-27,2026-11-01
+12951-6433d5a2-a1da-4695--S,Machine Learning,AI & Machine Learning Engineer (m/w/d),Softwareentwickler/in,MONTANA Energie-Handel GmbH & Co. KG,München,BAYERN,False,True,KEINE_ANGABE,2026-10-22,2026-11-01
+10000-1206244758-S,Machine Learning,Senior Engineer Machine Learning / AI (w/m/d),Machine Learning Engineer,HUK-COBURG VVaG,Coburg,BAYERN,True,True,KEINE_ANGABE,2026-04-21,2026-11-01
+10001-1003734918-S,Machine Learning,"Senior Machine Learning Engineer, AI Platform",Machine Learning Engineer,Smartly.io Solutions GmbH,Berlin,BERLIN,,True,UNBEFRISTET,2026-09-21,2026-11-01
+13644-303120-S,Machine Learning,KI / Machine Learning Engineer (m/w/d),IT-Systemadministrator/in,Bitech,"Hürth, Rheinland",NORDRHEIN_WESTFALEN,True,False,KEINE_ANGABE,2026-09-03,2026-11-01
+12787-270196071026-S,Machine Learning,Senior Machine Learning Engineer - Computer Vision (w/m/d),Machine Learning Engineer,dmTECH GmbH,"Karlsruhe, Baden",BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-10-07,2026-11-01
+13509-000021113ef002-S,Machine Learning,Consultant Data Management & Machine Learning (m/w/d),IT-Berater/in,BWI GmbH,München,BAYERN,True,True,UNBEFRISTET,2026-10-21,2026-11-01
+12908-064805932-S,Machine Learning,Applied AI Engineer / Machine Learning Engineer (m/w/d),Application-Engineer/-Manager/in,EDGITAL GmbH,"Essen, Ruhr",NORDRHEIN_WESTFALEN,False,False,KEINE_ANGABE,2026-10-26,2026-11-01
+10001-1003928568-S,Machine Learning,Senior Softwarearchitekt (m/w/d) AI & Machine Learning,Software-Architect,univativ GmbH München,München,BAYERN,,True,UNBEFRISTET,2026-10-28,2026-11-01
+12336-a26f539j0455448-S,Machine Learning,Consultant Data Management & Machine Learning (m/w/d),Data-Consultant,BWI GmbH,Berlin,BERLIN,False,True,KEINE_ANGABE,2026-10-14,2026-11-01
+19175-0068277696-S,Machine Learning,Senior Machine Learning Engineer (m/f/d) -  GeoAI for Humanitarian Applications,Machine Learning Engineer,HeiGIT gGmbH,"Heidelberg, Neckar",BADEN_WUERTTEMBERG,,True,BEFRISTET,2026-10-22,2026-11-01
+12456-1646723-1-S,Machine Learning,Software Development Specialist (Python) Machine Learning for Railway Traffic Optimization (w/m/d),Machine Learning Engineer,DB Zeitarbeit GmbH,Berlin,BERLIN,,True,BEFRISTET,2026-10-23,2026-11-01
+12456-1645058-1-S,Machine Learning,Software Development Specialist (Python) Machine Learning for Railway Traffic Optimization (w/m/d),Machine Learning Engineer,DB Zeitarbeit GmbH,Berlin,BERLIN,,True,BEFRISTET,2026-10-19,2026-11-01
+13644-311622-S,Machine Learning,(Junior) Machine Learning Engineer (all genders),Anwendungsprogrammierer/in,Parship,Dresden,SACHSEN,False,False,KEINE_ANGABE,2026-09-24,2026-11-01
+15861-44520429-1020-S,Machine Learning,"Gruppenleitung AI, Machine Learning & MLOps für Prognosesysteme",Wissenschaftliche/r Mitarbeiter/in,Fraunhofer-Gesellschaft e.V. Zentrale München,"Kassel, Hessen",HESSEN,,True,KEINE_ANGABE,2026-10-21,2026-11-01
+10001-1003523811-S,Machine Learning,"AI / Machine Learning Engineer – LLM, RAG & NLP (m/w/d)",KI-Engineer,engenious GmbH,"Brühl, Baden",BADEN_WUERTTEMBERG,True,True,UNBEFRISTET,2026-08-11,2026-11-01
+10001-1003533404-S,Machine Learning,"Machine Learning Lead (m/w/d) - AI Security, Tübingen oder remote",Informatiker/in,MATVIS GmbH,Tübingen,BADEN_WUERTTEMBERG,True,True,KEINE_ANGABE,2026-08-12,2026-11-01
+14751-373A135138-S,Machine Learning,Machine Staging & Field Service Engineer Europe (m/w/d),Machine Learning Engineer,Tempton Personaldienstleistungen GmbH NL Siegen,"Freudenberg, Westfalen",NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-01,2026-11-01
+10001-1001883486-S,Machine Learning,Softwareentwickler:in Machine-/Deep-Learning (Homeoffice möglich),Softwareentwickler/in,zollsoft GmbH    ,Köln,NORDRHEIN_WESTFALEN,True,True,UNBEFRISTET,2025-09-23,2026-11-01
+13635-6b0a1c8b_JB5264879-S,Machine Learning,Softwareentwickler:in Machine- / Deep-Learning (Home Office) (m/w/d),Softwareentwickler/in,zollsoft GmbH,Jena,THUERINGEN,False,True,UNBEFRISTET,2026-10-05,2026-11-01
+12811-2343472-S,Machine Learning,"Werkstudent - Machine Learning  (m|w|d), Westhausen , DEU",E-Learning-Autor/in,PVA TePla Analytical Systems GmbH,"Westhausen, Württemberg",BADEN_WUERTTEMBERG,False,False,BEFRISTET,2026-09-24,2026-11-01
+12811-2363071-S,Machine Learning,"Data Science und Machine Learning, Honda R&D Europe (Deutschland) GmbH",E-Learning-Autor/in,Honda R&D Europe (Deutschland) GmbH,Offenbach am Main,HESSEN,False,False,UNBEFRISTET,2026-10-23,2026-11-01
+10001-1003485596-S,Machine Learning,Learning Technology Specialist (m/w/d),E-Learning-Autor/in,Medion Personalvermittlung,Starnberg,BAYERN,True,True,UNBEFRISTET,2026-08-03,2026-11-01
+16585-k26155.1596-S,Machine Learning,Remote (Senior) Consultant (m/w/d) Machine Learning & AI (SAP / Microsoft / Databricks),Data-Warehouse-Analyst/in,Windhoff Software Services GmbH,Gescher,NORDRHEIN_WESTFALEN,True,True,UNBEFRISTET,2026-07-13,2026-11-01
+11956-3078361791928800-S,Machine Learning,Barkhausen Institut gGmbH: PhD Position in Secure and Privacy-Preserving Machine Learning / AI (m/f/,Machine Learning Engineer,Barkhausen Institut gGmbH,Dresden,SACHSEN,True,True,BEFRISTET,2026-10-14,2026-11-01
+12288-4966032198-S,Machine Learning,AI Native Developer (m/w/d),Machine Learning Engineer,TechMinds GmbH,München,BAYERN,False,True,UNBEFRISTET,2026-10-15,2026-11-01
+12288-4966032582-S,Machine Learning,AI Native Developer (m/w/d),Machine Learning Engineer,TechMinds GmbH,München,BAYERN,False,True,UNBEFRISTET,2026-10-15,2026-11-01
+10001-1003813349-S,Machine Learning,Research Fellow (m/f/x) in AI for Autonomous Scientific Discovery and Scientific Machine Learning,Wissenschaftliche/r Mitarbeiter/in,Ruhr-Universität Bochum,Bochum,NORDRHEIN_WESTFALEN,,True,BEFRISTET,2026-10-07,2026-11-01
+16604-974444-008-S,Machine Learning,Expert AI Communication und Enablement (m/w/d),Machine Learning Engineer,TKMS GmbH,Kiel,SCHLESWIG_HOLSTEIN,False,True,KEINE_ANGABE,2026-10-23,2026-11-01
+15939-BB-634864-7878-8798-S,Machine Learning,AI Solutions Engineer (m/w/d),Machine Learning Engineer,Rheinmetall AG,Neuss,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-08-13,2026-11-01
+10000-1195271378-S,Machine Learning,AI Engineer (all genders),Machine Learning Engineer,OPTUM GmbH,"Heilbronn, Neckar",BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2025-01-22,2026-11-01
+12265-305102_JB5269941-S,Machine Learning,(Junior) Software Engineer (m/w/d),Ingenieurinformatiker/in,FERCHAU GmbH Niederlassung München Mobility,München,BAYERN,,True,KEINE_ANGABE,2026-10-12,2026-11-01
+17486-143476084111745734-S,Machine Learning,"AI Innovation Engineer, Google Cloud",Machine Learning Engineer,Google Germany GmbH,Frankfurt am Main,HESSEN,False,False,KEINE_ANGABE,2026-06-16,2026-11-01
+16604-974258-008-S,Machine Learning,Projektleiter für Forschungsprojekte Data Science und KI (m/w/d),Machine Learning Engineer,TKMS ATLAS ELEKTRONIK GmbH,Bremen,BREMEN,False,True,KEINE_ANGABE,2026-10-21,2026-11-01
+19069-372858-S,Machine Learning,WL-1 QA Engineer,Machine Learning Engineer,Join Solutions GmbH,Berlin,BERLIN,True,False,KEINE_ANGABE,2026-03-24,2026-11-01
+12336-a26f1192j0456070-S,Machine Learning,AI Inference Engineer (all genders),Machine Learning Engineer,EXXETA AG,Leipzig,SACHSEN,False,True,KEINE_ANGABE,2026-10-08,2026-11-01
+12649-1622698-2-S,Machine Learning,"(Senior) AI Engineer - Data & AI Organisation (all genders, full-/part-time)",Machine Learning Engineer,Merck KGaA,Weiterstadt,HESSEN,False,True,KEINE_ANGABE,2026-10-27,2026-11-01
+10001-1003834295-S,Machine Learning,E-Learning Developer – UX & KI-Lernwelten (m/w/d),Medieninformatiker/in,VOREST AG,Pforzheim,BADEN_WUERTTEMBERG,True,True,UNBEFRISTET,2026-10-09,2026-11-01
+13185-507291-1801735-0-S,Machine Learning,Senior AI Consultant (all gender),Data Scientist,ALTEN Consulting Services GmbH Stuttgart,Stuttgart,BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-10-28,2026-11-01
+17486-135193514559316678-S,Machine Learning,"AI Innovation Engineer, Deutsche Borse Group, Google Cloud",Machine Learning Engineer,Google Germany GmbH,München,BAYERN,False,False,KEINE_ANGABE,2026-06-11,2026-11-01
+12874-1646845-1-S,Machine Learning,Domain Architect Digital Roadmapping and AI Solutions (f/m/div) HRC1828856,Machine Learning Engineer,Infineon Technologies AG,Neubiberg,BAYERN,False,True,UNBEFRISTET,2026-10-23,2026-11-01
+10001-1003455354-S,Machine Learning,AI Engineer (m/w/d),KI-Engineer,PureSolution GmbH EDV Dienstleistung und Software,"Zirndorf, Mittelfranken",BAYERN,True,True,UNBEFRISTET,2026-07-28,2026-11-01
+10000-1208482479-S,Machine Learning,KI-Koordinator*in (m/w/d),Wirtschaftsinformatiker/in (Hochschule),BG Verkehr,Hamburg,HAMBURG,False,True,UNBEFRISTET,2026-10-30,2026-11-01
+11956-2988151779228001-S,Machine Learning,accompio GmbH: Senior AI Engineer (m/w/d) - Dresden oder remote,KI-Engineer,accompio GmbH,Grasbrunn,BAYERN,True,True,KEINE_ANGABE,2026-10-13,2026-11-01
+12874-1641660-1-S,Machine Learning,Staff Engineer AMS Implementation (f/m/div),Ingenieur/in - Elektrotechnik,Infineon Technologies AG,Neubiberg,BAYERN,False,True,UNBEFRISTET,2026-10-09,2026-11-01
+19913-3085001793142000-S,Machine Learning,NTT DATA Deutschland SE: Forward Deployment Engineer (w/m/x) - AI & Enterprise Solutions,KI-Engineer,NTT DATA Deutschland SE,München,BAYERN,True,True,KEINE_ANGABE,2026-10-28,2026-11-01
+10001-1003927383-S,Machine Learning,Junior Software Engineer*,Softwareentwickler/in,VITRONIC Machine Vision GmbH,Wiesbaden,HESSEN,,True,UNBEFRISTET,2026-10-28,2026-11-01
+10001-1003803836-S,Machine Learning,KI-Experte Technologieanalyse & Digitale Innovation (m/w/d),Informatiker/in,PS Direkt GmbH   Co. KG,Köln,NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2026-10-05,2026-11-01
+19913-3056331792188001-S,Machine Learning,NTT DATA Deutschland SE: Senior AI & GenAI Architect (w/m/x),KI-Engineer,NTT DATA Deutschland SE,Hamburg,HAMBURG,True,True,KEINE_ANGABE,2026-10-17,2026-11-01
+11956-2996741792706401-S,Machine Learning,SoftwareOne Deutschland GmbH: Senior AI Consulting Architect (gn),Software-Architect,SoftwareOne Deutschland GmbH,München,BAYERN,True,True,KEINE_ANGABE,2026-10-23,2026-11-01
+19913-3085121793142000-S,Machine Learning,NTT DATA Deutschland SE: Lead Forward Deployment Engineer (w/m/x) - AI & Enterprise Solutions,KI-Engineer,NTT DATA Deutschland SE,München,BAYERN,True,True,KEINE_ANGABE,2026-10-28,2026-11-01
+19913-3070401792188001-S,Machine Learning,NTT DATA Deutschland SE: SAP AI Lead Architect (w/m/x),Software-Architect,NTT DATA Deutschland SE,Frankfurt am Main,HESSEN,True,True,KEINE_ANGABE,2026-10-17,2026-11-01
+10000-1207108489-S,Machine Learning,AI Systems Platform Development Engineer (m/w/d) (40 hours/week),KI-Engineer,CHN Energy Europe Research GmbH,Berlin,BERLIN,False,True,BEFRISTET,2026-07-07,2026-11-01
+10000-1197736502-S,Machine Learning,KI - machine learining - BI - Big Data,Informatiker/in,Lantenhammer Consulting Silvia Lantenhammer,München,BAYERN,,True,UNBEFRISTET,2024-02-01,2026-11-01
+10001-1002653930-S,Machine Learning,"Senior Software Engineer* Rust/ C++ (Computer Vision, ML, Linux)",Softwareentwickler/in,VITRONIC Machine Vision GmbH,Wiesbaden,HESSEN,,True,UNBEFRISTET,2026-02-24,2026-11-01
+10001-1002260747-S,Machine Learning,Entwicklungsingenieur*in für intelligente Algorithmen (m/w/d),Informatiker/in,Linguwerk GmbH,Dresden,SACHSEN,,True,UNBEFRISTET,2025-12-05,2026-11-01
+10001-1003579087-S,Machine Learning,Machine Vision Designer / Entwickler industrielle Bildverarbeitung (m/w/d),Elektroniker/in - Automatisierungstechnik,ATS Automation Tooling Systems GmbH,Kirchheim bei München,BAYERN,,True,UNBEFRISTET,2026-08-21,2026-11-01
+19913-3074751792188001-S,Machine Learning,NTT DATA Deutschland SE: Senior AI Engineer (w/m/x),KI-Engineer,NTT DATA Deutschland SE,Berlin,BERLIN,True,True,KEINE_ANGABE,2026-10-17,2026-11-01
+19913-3074991792188001-S,Machine Learning,NTT DATA Deutschland SE: Senior AI Client Delivery Manager (w/m/x),KI-Engineer,NTT DATA Deutschland SE,"Rosenheim, Oberbayern",BAYERN,True,True,KEINE_ANGABE,2026-10-17,2026-11-01
+19380-wd4ab6rqqk-S,Machine Learning,Master Thesis – Reinforcement Learning Control of a Liquid–Liq...,Arbeitsplanungsingenieur/in,Forschungszentrum Jülich GmbH P-VA Personalabrechnung,Jülich,NORDRHEIN_WESTFALEN,False,False,KEINE_ANGABE,2026-10-02,2026-11-01
+19380-fq4mrnf2rw-S,Machine Learning,PhD Position - Representation and Active Learning for Multi-Sc...,Wissenschaftliche/r Mitarbeiter/in,Forschungszentrum Jülich GmbH P-VA Personalabrechnung,Jülich,NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-10-02,2026-11-01
+12727-UL1384029-S,Machine Learning,Prozessentwicklungsingenieur Montage und Integration (m/w/d),Prozessmanager/in - RPA,engineering people GmbH,Oberkochen,BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-10-27,2026-11-01
+19376-44528995-1023-S,Machine Learning,AI & Automation Specialist  / AI Engineer (m/w/d),Data Engineer,HDI AG,Hannover,NIEDERSACHSEN,False,True,KEINE_ANGABE,2026-10-24,2026-11-01
+19376-44528984-1023-S,Machine Learning,Business Intelligence Specialist / Business  (m/w/d),Data Engineer,HDI AG,Hannover,NIEDERSACHSEN,False,True,UNBEFRISTET,2026-10-24,2026-11-01
+20798-44542194-1030-S,Machine Learning,Wissenschaftliche/-r Mitarbeiter/-in -Doktorand/-in (m/w/d),Wissenschaftliche/r Mitarbeiter/in,Universitätsklinikum Leipzig Anstalt öffentlichen Rechts,Leipzig,SACHSEN,,,BEFRISTET,2026-10-31,2026-11-01
+10001-1003922563-S,Machine Learning,2 Doctoral Positions (m/f/x) for the Research Project (A02),Wissenschaftliche/r Mitarbeiter/in,Ruhr-Universität Bochum,Bochum,NORDRHEIN_WESTFALEN,,False,BEFRISTET,2026-10-28,2026-11-01
+10001-1003939909-S,Machine Learning,Junior Softwareentwickler React / JavaScript (m/w/d),Softwareentwickler/in,ISR Information Products AG,"Münster, Westfalen",NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2026-10-30,2026-11-01
+10001-1003939882-S,Machine Learning,Softwareentwickler Backend & KI-SaaS (m/w/d),Softwareentwickler/in,ISR Information Products AG,"Münster, Westfalen",NORDRHEIN_WESTFALEN,,True,UNBEFRISTET,2026-10-30,2026-11-01
+12265-464531_JB5285943-S,Machine Learning,Softwareentwickler Sensordaten (m/w/d),Softwareentwickler/in,FERCHAU GmbH Niederlassung Ulm,"Ulm, Donau",BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-10-30,2026-11-01
+10001-1003802281-S,Machine Learning,Software Engineer AI & Engineering Automation (m/w/d),Softwareentwickler/in,Brose Fahrzeugteile SE & Co. KG,Bamberg,BAYERN,,True,UNBEFRISTET,2026-10-05,2026-11-01
+12634-BB-646682-7878-3311-S,Machine Learning,Cloud & Infrastructure Engineer (m/w/d),Fachinformatiker/in - Systemintegration,Akkodis Germany Tech Experts GmbH,"Nürnberg, Mittelfranken",BAYERN,,,UNBEFRISTET,2026-10-30,2026-11-01
+10001-1003891264-S,Machine Learning,Senior DevOps Engineer mit KI- und Security-Erfahrung (m/w/d) ARBEITNEHMERÜBERLASSUNG,DevOps Engineer,ibc AG,Hamburg,HAMBURG,True,True,UNBEFRISTET,2026-10-21,2026-11-01
+10001-1003799013-S,Machine Learning,Process Development Engineer Assembly & Integration (m/w/x) - in Arbeitnehmerüberlassung,Leiter/in - Process Engineering,Kirsch GmbH Personalmanagement,Oberkochen,BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-10-05,2026-11-01
+10001-1003896578-S,Machine Learning,Phd Position in Statistics at Ulm University (m/f/d),Mathematiker/in,Universität Ulm Dez. III / Abt. III-1 Personalservice,"Ulm, Donau",BADEN_WUERTTEMBERG,,True,BEFRISTET,2026-10-22,2026-11-01
+12265-516373_JB5283547-S,Machine Learning,AI Data Science Engineer (m/w/d),Physiker/in,FERCHAU GmbH Niederlassung Heidenheim,Oberkochen,BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-10-27,2026-11-01
+10000-1208471226-S,Machine Learning,Wissenschaftliche Mitarbeiterin / wissenschaftlicher Mitarbeiter (w/m/d),Informatiker/in,Hochschule Niederrhein Abteilung Mönchengladbach,Mönchengladbach,NORDRHEIN_WESTFALEN,False,True,BEFRISTET,2026-10-29,2026-11-01
+12634-BB-646505-7878-6632-S,Machine Learning,Prozessingenieur Montage & Integration (m/w/d),Ingenieur/in - Maschinenbau,Akkodis Germany Tech Experts GmbH,Oberkochen,BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-10-27,2026-11-01
+19209-44542099-1030-S,Machine Learning,Postdoc - automated high-throughput screening of electrolyte adduces for aqueous batteries,Ingenieur/in - Materialwissenschaften,Helmholtz-Zentrum hereon GmbH,Geesthacht,SCHLESWIG_HOLSTEIN,False,True,BEFRISTET,2026-10-31,2026-11-01
+10001-1003802327-S,Machine Learning,AI Engineer Electronics (m/w/d),KI-Engineer,Brose Fahrzeugteile SE & Co. KG,Bamberg,BAYERN,,True,UNBEFRISTET,2026-10-05,2026-11-01
+10000-1208289751-S,Machine Learning,Fremdsprachensekretär:in (m/w/d,Fremdsprachenkorrespondent/in,Eberhard Karls Universität Tübingen Personalverwaltung,Tübingen,BADEN_WUERTTEMBERG,False,False,BEFRISTET,2026-10-14,2026-11-01
+12265-525127_JB5279624-S,Machine Learning,Versuchsingenieur Produktbewertung (m/w/d),Ingenieur/in - Mechatronik,FERCHAU GmbH Niederlassung Bielefeld,Gütersloh,NORDRHEIN_WESTFALEN,,True,KEINE_ANGABE,2026-10-22,2026-11-01
+12265-522613_JB5283193-S,Machine Learning,Softwareentwickler Messtechnik (m/w/d),Softwareentwickler/in,FERCHAU GmbH Niederlassung Bremen City,Bremen,BREMEN,,True,KEINE_ANGABE,2026-10-27,2026-11-01
+16129-21762-5-S,Machine Learning,"Senior Manager Functional Safety Complex Systems, ADAS, AD (f/m/d) / 21762",ADAS/AD Engineer,TÜV Rheinland Service GmbH,Köln,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-28,2026-11-01
+10001-1003927158-S,Machine Learning,Bioinformatics Team Lead (f/m/d),Bioinformatiker/in,CeCaVa GmbH,Tübingen,BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-10-28,2026-11-01
+13185-507294-1801738-0-S,Machine Learning,Senior AI Platform Engineer (all gender),DevOps Engineer,ALTEN Consulting Services GmbH Stuttgart,Stuttgart,BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-10-28,2026-11-01
+10001-1003809294-S,Machine Learning,"Postdoctoral Fellow (m,f,x) in Computational Neuroscience (CRC 1280)",Neurowissenschaftler/in,Ruhr-Universität Bochum,Bochum,NORDRHEIN_WESTFALEN,,True,BEFRISTET,2026-10-06,2026-11-01
+10001-1003932700-S,Machine Learning,Wissenschaftliche*r Mitarbeiter*in (Doktorand*in) (26331),Physiker/in,Bergische Universität Wuppertal,Wuppertal,NORDRHEIN_WESTFALEN,,False,BEFRISTET,2026-10-29,2026-11-01
+10001-1003864215-S,Machine Learning,Softwareentwickler (m/w/d),Softwareentwickler/in,Cronos GmbH,Memmingerberg,BAYERN,,True,UNBEFRISTET,2026-10-15,2026-11-01
+15939-BB-633006-7878-5286-S,Machine Learning,Software Developer Payload Management (m/w/d),Softwareentwickler/in,Rheinmetall AG,Penzberg,BAYERN,,True,UNBEFRISTET,2026-03-12,2026-11-01
+10001-1003923155-S,Machine Learning,KI-Manager (m/w/d) in Vollzeit,KI-Manager/in,Schöneberg Holding GmbH,Herford,NORDRHEIN_WESTFALEN,,True,KEINE_ANGABE,2026-10-28,2026-11-01
+20536-a08kfz1iqv-S,Machine Learning,Research Associate (m/f/d) at the Institute of Medical Technol...,Wissenschaftliche/r Mitarbeiter/in,Technische Universität Hamburg,Hamburg,HAMBURG,False,True,BEFRISTET,2026-10-30,2026-11-01
+15939-BB-633956-7878-4090-S,Machine Learning,Solution Designer - Autonomous UxV Control (m/w/d),Produktmanager/in,Rheinmetall AG,Bremen,BREMEN,False,True,UNBEFRISTET,2026-10-22,2026-11-01
+12384-975230945-S,Machine Learning,Fachinformatiker (m/w/d) - Daten- und Prozessanalyse,Fachinformatiker/in - Daten- und Prozessanalyse,Actief Personalmanagement GmbH Berlin,Berlin,BERLIN,,True,KEINE_ANGABE,2026-10-06,2026-11-01
+12265-520588_JB5270947-S,Machine Learning,KI-Manager (m/w/d),Informatiker/in,FERCHAU GmbH Niederlassung Bielefeld,Bielefeld,NORDRHEIN_WESTFALEN,,True,KEINE_ANGABE,2026-10-13,2026-11-01
+10001-1003904903-S,Machine Learning,Analog IC Product Engineer (m/f/d) #200688192,Ingenieur/in - Elektrotechnik,Apple Technology Engineering B.V. & Co. KG,München,BAYERN,,True,UNBEFRISTET,2026-10-23,2026-11-01
+10000-1206378178-S,Machine Learning,IT-Security Consultant /IAM Consultant (m/w/d),Informatiker/in,IdentityXS Consulting GmbH,Bonn,NORDRHEIN_WESTFALEN,True,True,KEINE_ANGABE,2026-05-04,2026-11-01
+10001-1003885406-S,Machine Learning,Research associate (m/f/x),Informatiker/in,Ruhr-Universität Bochum,Bochum,NORDRHEIN_WESTFALEN,,True,BEFRISTET,2026-10-20,2026-11-01
+16236-979946334-S,Machine Learning,AI Technical Project Manager (m/w/d),Projektleiter/in / Projektmanager/in,Sopra Steria SE,,,,,KEINE_ANGABE,2026-10-29,2026-11-01
+14680-k25081.2510-S,Machine Learning,Hardware Entwickler für Embedded Elektronik m/w/d,Ingenieur/in - Elektrotechnik,Personalstrategie GmbH,"Weichs, Kreis Dachau",BAYERN,,True,UNBEFRISTET,2026-09-23,2026-11-01
+20536-0hemzrsqie-S,Machine Learning,Research Associate (m/f/d) at the Institute of Medical Technol...,Wissenschaftliche/r Mitarbeiter/in,Technische Universität Hamburg,Hamburg,HAMBURG,False,True,BEFRISTET,2026-10-30,2026-11-01
+14915-44521121-1020-S,Machine Learning,Wissenschaftliche/r Mitarbeiter/in - Visual Computing (L2S),Wissenschaftliche/r Mitarbeiter/in,Universität Siegen KdöR,Siegen,NORDRHEIN_WESTFALEN,False,True,BEFRISTET,2026-10-21,2026-11-01
+12265-486748_JB5271170-S,Machine Learning,Spezialist für Microsoft Copilot & Künstliche Intelligenz (m/w/d),Informatiker/in,FERCHAU GmbH Niederlassung Rosenheim,"Rosenheim, Oberbayern",BAYERN,,True,KEINE_ANGABE,2026-10-13,2026-11-01
+18280-j146S3287-11162-S,Machine Learning,PhD Student,Wissenschaftliche/r Mitarbeiter/in,Universitätsmedizin Göttingen,Göttingen,NIEDERSACHSEN,False,False,BEFRISTET,2026-10-23,2026-11-01
+10001-1003722467-S,Machine Learning,Informatik / VC Werkstudent - 26028-IEBD01,Informatiker/in,NG Engineering Consulting GmbH,Rödental,BAYERN,,,UNBEFRISTET,2026-09-17,2026-11-01
+19274-UHVSB01SS6K8AN1O-S,Machine Learning,Data & KI-Spezialist (alle Geschlechter),Informatiker/in,men-in-motion GmbH,"Ulm, Donau",BADEN_WUERTTEMBERG,,,UNBEFRISTET,2026-08-29,2026-11-01
+10001-1003878054-S,Machine Learning,Systems Engineer (m/w/d),Ingenieur/in - Systems Engineering,NORDkind Recruiting GmbH,Bremen,BREMEN,,True,UNBEFRISTET,2026-10-19,2026-11-01
+12265-446230_JB5275901-S,Machine Learning,Softwareentwickler C++ (m/w/d) Industrielle Bildverarbeitung,Softwareentwickler/in,FERCHAU GmbH Niederlassung Karlsruhe City,"Karlsruhe, Baden",BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-10-19,2026-11-01
+13270-2026-00008844-1-S,Machine Learning,"Sachbearbeiterin/Sachbearbeiter (m/w/d), Erding",Vermessungsingenieur/in,Bundesamt für das Personalmanagement der Bundeswehr  Abteilung V,Erding,BAYERN,False,True,UNBEFRISTET,2026-10-28,2026-11-01
+10001-1003908782-S,Machine Learning,"Research Associate (m/f/d), EG 14 TV-H",Informatiker/in,Universität Kassel,"Kassel, Hessen",HESSEN,,True,BEFRISTET,2026-10-26,2026-11-01
+13319-897976/1_626357LS-S,Machine Learning,Business Analyst CEP (m/w/d),Business-Analyst/in,Hays Professional Solutions GmbH,Mülheim an der Ruhr,NORDRHEIN_WESTFALEN,,True,BEFRISTET,2026-10-14,2026-11-01
+10001-1003857597-S,Machine Learning,Fullstack Softwareentwickler mit Fokus KI & Fabrikautomation (m/w/d),Softwareentwickler/in,Cronos GmbH,"Ulm, Donau",BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-10-14,2026-11-01
+10001-1003904928-S,Machine Learning,Software Developer (Tools & Automation - Cellular) (m/f/d) #200688696,Ingenieur/in - Elektrotechnik,Apple Technology Engineering B.V. & Co. KG,München,BAYERN,,True,UNBEFRISTET,2026-10-23,2026-11-01
+16236-979932596-S,Machine Learning,Solution Architect (m/w/d),Software-Architect,Sopra Steria SE,,,,,KEINE_ANGABE,2026-10-29,2026-11-01
+12384-961889869-S,Machine Learning,Fachinformatiker (m/w/d) - Daten- und Prozessanalyse,Fachinformatiker/in - Daten- und Prozessanalyse,Actief Personalmanagement GmbH Berlin,Berlin,BERLIN,,True,KEINE_ANGABE,2026-08-05,2026-11-01
+19321-0068268651-S,Machine Learning,Software Engineer Full-Stack (all genders),Fullstack-Entwickler/in,Nect GmbH,Hamburg,HAMBURG,,True,KEINE_ANGABE,2026-10-22,2026-11-01
+19208-0065675336-S,Machine Learning,Simulation & Digital Solutions Scientist (m/w/x),Digital-Analyst/in,EV Group E. Thallner GmbH,Sankt Florian am Inn,OBEROESTERREICH,,True,KEINE_ANGABE,2026-06-29,2026-11-01
+13348-1630491-1-S,Machine Learning,Senior AI Consultant (all genders),Informatiker/in,Deutsche Lufthansa AG,Raunheim,HESSEN,False,True,KEINE_ANGABE,2026-09-08,2026-11-01
+10001-1003828672-S,Machine Learning,Lead Scientist on Preclinical Disease Models for RNA-based Drug Discovery & Development (m/w/d),Bioinformatiker/in,Mission Personal GmbH,Mannheim,BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-10-08,2026-11-01
+16947-980212901-S,Machine Learning,Gust Loads Engineer (d/f/m),Ingenieur/in - Mechanik,Airbus Operations GmbH Werk Bremen,Hamburg,HAMBURG,False,True,UNBEFRISTET,2026-10-30,2026-11-01
+19315-1648838-1-S,Machine Learning,Wissenschaftliche*r Mitarbeiter*in im Bereich Geoökologie (w/m/d),Geoökologe/-ökologin,Johann Heinrich von Thünen-Institut,Braunschweig,NIEDERSACHSEN,,,BEFRISTET,2026-10-30,2026-11-01
+15861-44540000-1029-S,Machine Learning,Software-Ingenieur / Full-Stack Engineer (all genders) - Maritime Systeme,Wissenschaftliche/r Mitarbeiter/in,Fraunhofer-Gesellschaft e.V. Zentrale München,Ettlingen,BADEN_WUERTTEMBERG,,True,BEFRISTET,2026-10-30,2026-11-01
+12708-1648267-1-S,Machine Learning,"AI Application Expert (alle Geschlechter), Dormagen",Berater/in - digitale Transformation,Bayer AG Pharmaceuticals,Dormagen,NORDRHEIN_WESTFALEN,False,True,KEINE_ANGABE,2026-10-28,2026-11-01
+15939-BB-633793-7878-1939-S,Machine Learning,Communications Network Orchestration & Optimization Engineer (m/w/d),Informatikkaufmann/-frau,Rheinmetall AG,Düsseldorf,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-05-19,2026-11-01
+19924-966662498-S,Machine Learning,Head of AI Solutions (m/w/d),IT-Projektkoordinator/in,univativ GmbH,Hanau,HESSEN,,,KEINE_ANGABE,2026-08-27,2026-11-01
+12265-487660_JB5269614-S,Machine Learning,KI / AI Engineer (m/w/d),KI-Engineer,FERCHAU GmbH Niederlassung Karlsruhe City,"Karlsruhe, Baden",BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-10-12,2026-11-01
+10001-1002445207-S,Machine Learning,SAP Consultant IS-U (M/W/D) bei ENERGY4U!,IT-Berater/in,energy4u GmbH,,,,True,UNBEFRISTET,2026-01-28,2026-11-01
+12362-TR280794_626707LS-S,Machine Learning,Experte Quantitative Systems Pharmacology (w/m/d),Biometriker/in,Brunel GmbH NL Mannheim,Mannheim,BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-10-16,2026-11-01
+12265-499369_JB5274276-S,Machine Learning,Softwareentwickler Künstliche Intelligenz (m/w/d),Softwareentwickler/in,FERCHAU GmbH Niederlassung Ulm,"Ulm, Donau",BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2026-10-16,2026-11-01
+12265-524593_JB5275182-S,Machine Learning,Softwareentwickler KI & digitale Anwendungen (m/w/d),Softwareentwickler/in,FERCHAU GmbH Niederlassung Rosenheim,"Seebruck, Chiemsee",BAYERN,,True,KEINE_ANGABE,2026-10-19,2026-11-01
+10001-1001471205-S,Machine Learning,Service CoE NPI and Training Lead (d/f/m),Ingenieur/in - Maschinenbau,Baker Hughes INTEQ GmbH,Wunstorf,NIEDERSACHSEN,,True,UNBEFRISTET,2025-06-02,2026-11-01
+19522-0068291613-S,Machine Learning,AI Engineer – KI-Enablement & Solutions (m/w/d),Berufsspezialist/in - Künstliche Intelligenz und Maschinelles Lernen,Löwenstein Med.Techn.GmbH+Co.KG,Hamburg,HAMBURG,False,True,KEINE_ANGABE,2026-10-23,2026-11-01
+10001-1000263867-S,Machine Learning,JAVA Software Entwickler (m/w/d),Softwareentwickler/in,AMENO GmbH,Braunschweig,NIEDERSACHSEN,True,True,UNBEFRISTET,2025-02-14,2026-11-01
+12265-523549_JB5267883-S,Machine Learning,Software & AI Engineer (m/w/d),Informatiker/in,FERCHAU GmbH Niederlassung Frankfurt,Offenbach am Main,HESSEN,,True,KEINE_ANGABE,2026-10-09,2026-11-01
+10001-1003919287-S,Machine Learning,Testingenieur Guidance & Automation (m/f/d),Testingenieur/in,John Deere GmbH & Co. KG,Mannheim,BADEN_WUERTTEMBERG,,,UNBEFRISTET,2026-10-27,2026-11-01
+20177-44533684-1026-S,Machine Learning,PostDoc Agentic AI and Predictive Technologies,IT-Lösungsentwickler/in,Boehringer Ingelheim Pharma GmbH & Co. KG,Biberach an der Riß,BADEN_WUERTTEMBERG,False,True,KEINE_ANGABE,2026-10-27,2026-11-01
+10001-1003853035-S,Machine Learning,IoT Software Engineer (m/w/d),Informatiker/in (Weiterbildung),SOTEC GmbH & Co KG,Ostelsheim,BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2026-10-14,2026-11-01
+14915-44522514-1021-S,Machine Learning,Wissenschaftliche/r Mitarbeiter/in im Bereich AI Security und Explainable AI,Wissenschaftliche/r Mitarbeiter/in,Universität Siegen KdöR,Siegen,NORDRHEIN_WESTFALEN,True,True,KEINE_ANGABE,2026-10-22,2026-11-01
+18237-44522405-1021-S,Machine Learning,Wissenschaftlicher Mitarbeiter/ Wissenschaftliche Mitarbeiterin (m/w/d) Psychosoziale Medizin,Wissenschaftliche/r Mitarbeiter/in,Universitätsklinikum C.G.Carus an der TU Dresden,Dresden,SACHSEN,False,False,BEFRISTET,2026-10-22,2026-11-01
+18306-BB-635255-7878-1012-S,Machine Learning,Software Engineer SAP ICM (m/w/d),Softwareentwickler/in,AXA Konzern AG,Köln,NORDRHEIN_WESTFALEN,False,True,UNBEFRISTET,2026-10-22,2026-11-01
+15719-44534955-1027-S,Machine Learning,Senior Aktuar Pricing (m/w/d),Aktuar/in,Allianz Deutschland AG,Unterföhring,BAYERN,False,True,KEINE_ANGABE,2026-10-28,2026-11-01
+10001-1003934379-S,Machine Learning,"Sr Solutions Architect GenAI, Automotive & Manufacturing GenAI",Informatiker/in,Amazon Web Services EMEA SARL Niederlassung Deutschland,Berlin,BERLIN,,True,UNBEFRISTET,2026-10-29,2026-11-01
+10001-1003810473-S,Machine Learning,IT Business Architect - Schwerpunkt Logistik (m/w/d),IT-Berater/in,Schlüter-Systems KG,Iserlohn,NORDRHEIN_WESTFALEN,,True,KEINE_ANGABE,2026-10-06,2026-11-01
+10001-1003809450-S,Machine Learning,Product Lead Graph Intelligence Engine (m/w/d),Produktmanager/in,Palturai GmbH,Hofheim am Taunus,HESSEN,True,True,UNBEFRISTET,2026-10-06,2026-11-01
+19924-967738413-S,Machine Learning,Softwareentwickler Forschungs-IT – Kotlin/JVM & KI (m/w/d),Softwareentwickler/in,univativ GmbH,Bonn,NORDRHEIN_WESTFALEN,,,KEINE_ANGABE,2026-09-01,2026-11-01
+10000-1205766977-S,Machine Learning,Entwickler/in für KI on Edge in Hard- und Software im autonomen Drohnenbereich (m/w/d),Data Scientist,SWIFT GmbH Messwerterfassungs-Systeme,"Reinheim, Odenwald",HESSEN,,True,KEINE_ANGABE,2026-03-09,2026-11-01
+10001-1003531878-S,Machine Learning,IT-Spezialist KI & Digitale Transformation (aGw*),Informatiker/in,Lindner SE,Arnstorf,BAYERN,,True,UNBEFRISTET,2026-08-12,2026-11-01
+16106-44445263-915-S,Machine Learning,SAP Application Manager/-in (m/w/d),Application-Engineer/-Manager/in,DAK-Gesundheit,Hamburg,HAMBURG,False,True,UNBEFRISTET,2026-09-16,2026-11-01
+10000-1208353176-S,Machine Learning,wissenschaftliche Mitarbeiter*innen (w/m/d),Informatiker/in,Universität Paderborn,Paderborn,NORDRHEIN_WESTFALEN,False,True,BEFRISTET,2026-10-20,2026-11-01
+12265-522067_JB5259413-S,Machine Learning,Prozessingenieur Montage & Integration (m/w/d),Ingenieur/in - Maschinenbau,FERCHAU GmbH Niederlassung Heidenheim,Oberkochen,BADEN_WUERTTEMBERG,False,True,UNBEFRISTET,2026-09-30,2026-11-01
+10000-1203140215-S,Machine Learning,Software-Entwickler:in C++ (m/w/d),Softwareentwickler/in,HD Vision Systems GmbH,"Heidelberg, Neckar",BADEN_WUERTTEMBERG,,True,KEINE_ANGABE,2025-07-16,2026-11-01
+15957-k55444.1852-S,Machine Learning,Projektmanager / Teamlead (m/w/d) - Cloud Applications,Informatiker/in,IBsolution GmbH,Mannheim,BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2025-07-06,2026-11-01
+10000-1183148269-S,Machine Learning,Software Engineer (m/w/d),Softwareentwickler/in,expo3 GmbH,Meßkirch,BADEN_WUERTTEMBERG,,True,UNBEFRISTET,2025-01-22,2026-11-01
+14001-9350-1801650-0-S,Machine Learning,Technischer Redakteur (m/w/d) mit IT-/KI-Ausrichtung,Technische/r Redakteur/in,personalisten GmbH,,,,True,UNBEFRISTET,2026-10-27,2026-11-01
+10000-1207238885-S,Machine Learning,Software-Entwickler IT-Systeme (m/w/d),Softwareentwickler/in,FERCHAU GmbH Niederlassung Rosenheim,"Seebruck, Chiemsee",BAYERN,False,True,UNBEFRISTET,2026-07-20,2026-11-01
+10001-1003391784-S,Machine Learning,Softwareentwickler C#.NET (m/w/d),Softwareentwickler/in,DAKO GmbH,Jena,THUERINGEN,,True,UNBEFRISTET,2026-07-15,2026-11-01
+13185-507183-1799976-0-S,Machine Learning,Development Engineer Optronic Testing & Data Acquisition (all gender),Ingenieur/in - Physik,ALTEN Consulting Services GmbH,Schrobenhausen,BAYERN,,True,UNBEFRISTET,2026-10-12,2026-11-01
+10001-1003808359-S,Machine Learning,"Full-time PhD position (m,f,x) in the area of decentralized security",Wissenschaftliche/r Mitarbeiter/in,Ruhr-Universität Bochum,Bochum,NORDRHEIN_WESTFALEN,,True,BEFRISTET,2026-10-06,2026-11-01
+15006-k40180.5854-S,Machine Learning,AI Consultant | KI-Berater (m/w/d),KI-Engineer,prognum Automotive GmbH,Stuttgart,BADEN_WUERTTEMBERG,True,True,UNBEFRISTET,2026-06-16,2026-11-01
+15986-REF282277S-c4eceeb-S,Machine Learning,Praktikum Methoden zur Validierung und Absicherung von KI-Modellen,Maschinenbaumechaniker/in,Robert Bosch GmbH,"Elchingen, Donau",BAYERN,False,True,BEFRISTET,2026-06-02,2026-11-01
+16604-972153-008-S,Machine Learning,Forschungsingenieur im Vessel LAB (m/w/d),Ingenieur/in - Schiffsbetriebstechnik,TKMS GmbH,Hamburg,HAMBURG,False,True,KEINE_ANGABE,2026-10-01,2026-11-01
