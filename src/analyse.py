@@ -1,18 +1,34 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+from pathlib import Path
 
-# Sample data (we'll replace this with real job data later)
-data = {
-    "job_title": ["Data Scientist", "Data Analyst", "ML Engineer", "Data Engineer"],
-    "city": ["Berlin", "Munich", "Koblenz", "Hamburg"],
-    "openings": [120, 200, 45, 90],
-}
+# Load data
+df = pd.read_csv("data/jobs_sample.csv")
+print(df.head())
+print(f"\nTotal postings: {len(df)}")
 
-df = pd.DataFrame(data)
-print(df)
+# Folder for charts
+Path("outputs").mkdir(exist_ok=True)
 
-df.plot(kind="bar", x="job_title", y="openings", legend=False)
-plt.title("Sample job openings in Germany")
-plt.ylabel("Openings")
+# Chart 1: postings by city
+df["city"].value_counts().plot(kind="bar")
+plt.title("Job postings by city (sample data)")
+plt.ylabel("Postings")
 plt.tight_layout()
-plt.show()
+plt.savefig("outputs/jobs_by_city.png")
+plt.close()
+
+# Chart 2: most requested skills
+skills = df["skills"].str.split(";").explode().str.strip()
+top_skills = skills.value_counts().head(8)
+print("\nTop skills:")
+print(top_skills)
+
+top_skills.sort_values().plot(kind="barh")
+plt.title("Most requested skills (sample data)")
+plt.xlabel("Postings")
+plt.tight_layout()
+plt.savefig("outputs/top_skills.png")
+plt.close()
+
+print("\nCharts saved in the outputs folder.")

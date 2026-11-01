@@ -1,0 +1,21 @@
+job_title,city,skills
+Data Scientist,Berlin,Python;SQL;Machine Learning
+Data Analyst,Munich,SQL;Excel;Power BI
+ML Engineer,Berlin,Python;PyTorch;Docker
+Data Engineer,Hamburg,Python;SQL;Spark
+Data Analyst,Berlin,SQL;Tableau;Python
+Data Scientist,Munich,Python;Statistics;SQL
+Data Engineer,Berlin,Python;Airflow;SQL
+ML Engineer,Munich,Python;TensorFlow;Docker
+Data Analyst,Hamburg,Excel;SQL;Power BI
+Data Scientist,Frankfurt,Python;Machine Learning;SQL
+Data Analyst,Koblenz,SQL;Excel;Python
+Data Engineer,Frankfurt,SQL;Spark;AWS
+Data Scientist,Berlin,Python;NLP;SQL
+ML Engineer,Hamburg,Python;PyTorch;AWS
+Data Analyst,Frankfurt,SQL;Power BI;Excel
+Data Scientist,Cologne,Python;Statistics;Machine Learning
+Data Engineer,Munich,Python;Kafka;SQL
+Data Analyst,Cologne,SQL;Tableau;Excel
+ML Engineer,Berlin,Python;Docker;AWS
+Data Scientist,Munich,Python;SQL;Deep Learning
