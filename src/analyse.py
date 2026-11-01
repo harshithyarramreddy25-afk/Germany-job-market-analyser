@@ -2,33 +2,30 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from pathlib import Path
 
-# Load data
-df = pd.read_csv("data/jobs_sample.csv")
-print(df.head())
-print(f"\nTotal postings: {len(df)}")
+df = pd.read_csv("data/jobs_real.csv")
+totals = pd.read_csv("data/term_totals.csv")
+collected = df["collected_on"].iloc[0]
 
-# Folder for charts
+print(df.head())
+print(f"\nPostings analysed: {len(df)} (collected {collected})")
+
 Path("outputs").mkdir(exist_ok=True)
 
-# Chart 1: postings by city
-df["city"].value_counts().plot(kind="bar")
-plt.title("Job postings by city (sample data)")
-plt.ylabel("Postings")
+# Chart 1: top cities in the collected sample
+df["city"].value_counts().head(10).sort_values().plot(kind="barh")
+plt.title(f"Top 10 cities in collected postings ({collected})")
+plt.xlabel("Postings")
 plt.tight_layout()
 plt.savefig("outputs/jobs_by_city.png")
 plt.close()
 
-# Chart 2: most requested skills
-skills = df["skills"].str.split(";").explode().str.strip()
-top_skills = skills.value_counts().head(8)
-print("\nTop skills:")
-print(top_skills)
-
-top_skills.sort_values().plot(kind="barh")
-plt.title("Most requested skills (sample data)")
-plt.xlabel("Postings")
+# Chart 2: total live postings per search term
+totals.set_index("search_term")["total_postings"].plot(kind="bar")
+plt.title(f"Live postings per search term in Germany ({collected})")
+plt.ylabel("Postings")
+plt.xticks(rotation=20)
 plt.tight_layout()
-plt.savefig("outputs/top_skills.png")
+plt.savefig("outputs/postings_by_role.png")
 plt.close()
 
 print("\nCharts saved in the outputs folder.")

@@ -22,7 +22,7 @@ Python, pandas, matplotlib, Streamlit
 5. Run the analysis: python src/analyse.py
 
 ## Project status
-Work in progress. Currently uses sample data. Next steps: real job data, skill analysis, and a Streamlit dashboard.
+Work in progress. Currently uses a small sample dataset (20 postings, illustrative only, not real statistics). Next steps: replace it with a real job dataset, add city/role filters, and build a Streamlit dashboard.
 
 ## Author
 Harshith Yarramreddy, M.Sc. Web and Data Science, University of Koblenz
