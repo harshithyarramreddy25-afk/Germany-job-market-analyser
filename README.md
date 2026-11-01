@@ -8,6 +8,12 @@ Help data science students and graduates see where the opportunities are in the 
 ## Tech stack
 Python, pandas, matplotlib, Streamlit
 
+## Results (sample data)
+
+![Job postings by city](outputs/jobs_by_city.png)
+
+![Most requested skills](outputs/top_skills.png) 
+
 ## How to run
 1. Clone the repo
 2. Create a virtual environment: python3 -m venv .venv
