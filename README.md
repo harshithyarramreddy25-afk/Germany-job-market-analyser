@@ -23,9 +23,10 @@ Data source: public job search of the Bundesagentur für Arbeit (German Federal 
 4. Install packages: pip install -r requirements.txt
 5. Collect data: python src/collect.py
 6. Run the analysis: python src/analyse.py
+7. Start the dashboard: streamlit run src/app.py
 
 ## Project status
-Working prototype with real data. Next steps: skill extraction from job descriptions, region and role filters, and a Streamlit dashboard.
+   Working prototype with real data and an interactive Streamlit dashboard. Next steps: skill extraction from job descriptions and deployment of the dashboard.
 
 ## Author
 Harshith Yarramreddy, M.Sc. Web and Data Science, University of Koblenz
