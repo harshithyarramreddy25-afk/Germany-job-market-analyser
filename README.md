@@ -4,7 +4,7 @@ Analysis of data and AI job postings in Germany: which cities and roles offer op
 
 ## Goal
 Help data science students and graduates see where the opportunities are in the German job market.
-
+ Start the dashboard: streamlit run src/app.py
 ## Tech stack
 Python, pandas, matplotlib, requests
 
