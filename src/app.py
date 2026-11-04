@@ -34,17 +34,6 @@ c3.metric("Home office possible", f"{share:.1f}%")
 # Charts
 left, right = st.columns(2)
 with left:
-Ask Google
-
-
-
-
-Do more with AI Mode
-Create, summarize, plan
-
-Create images
-Reimagine, illustrate, edit
-
     st.subheader("Top cities")
     st.bar_chart(filtered["city"].value_counts().head(10))
 with right:
